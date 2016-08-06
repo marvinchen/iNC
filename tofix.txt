@@ -1,0 +1,3132 @@
+
+
+
+src:35 <a href="http://xination.pixnet.net/blog/post/30355826">page 467</a>
+
+tgt:http://xination.pixnet.net/blog/post/30355826
+MP3fn:page467
+pCnt =  1
+#####################
+
+src:36 <a href="http://xination.pixnet.net/blog/post/30326369">page 466 -- list38</a>
+
+tgt:http://xination.pixnet.net/blog/post/30326369
+MP3fn:page466
+pCnt =  1
+#####################
+
+src:37 <a href="http://xination.pixnet.net/blog/post/30297962">page 465</a>
+
+tgt:http://xination.pixnet.net/blog/post/30297962
+MP3fn:page465
+pCnt =  1
+#####################
+
+src:38 <a href="http://xination.pixnet.net/blog/post/30263423">page 464</a>
+
+tgt:http://xination.pixnet.net/blog/post/30263423
+MP3fn:page464
+pCnt =  1
+#####################
+
+src:39 <a href="http://xination.pixnet.net/blog/post/30230948">page 463</a>
+
+tgt:http://xination.pixnet.net/blog/post/30230948
+MP3fn:page463
+pCnt =  1
+#####################
+
+src:40 <a href="http://xination.pixnet.net/blog/post/30183969">page 462</a>
+
+tgt:http://xination.pixnet.net/blog/post/30183969
+MP3fn:page462
+pCnt =  1
+#####################
+
+src:41 <a href="http://xination.pixnet.net/blog/post/30140802">page 461</a>
+
+tgt:http://xination.pixnet.net/blog/post/30140802
+MP3fn:page461
+pCnt =  1
+#####################
+
+src:42 <a href="http://xination.pixnet.net/blog/post/30125439">page 460</a>
+
+tgt:http://xination.pixnet.net/blog/post/30125439
+MP3fn:page460
+pCnt =  1
+#####################
+
+src:43 <a href="http://xination.pixnet.net/blog/post/29896718">page 459</a>
+
+tgt:http://xination.pixnet.net/blog/post/29896718
+MP3fn:page459
+pCnt =  1
+#####################
+
+src:44 <a href="http://xination.pixnet.net/blog/post/29896700">page 458</a>
+
+tgt:http://xination.pixnet.net/blog/post/29896700
+MP3fn:page458
+pCnt =  1
+#####################
+
+src:45 <a href="http://xination.pixnet.net/blog/post/29861636">page 457</a>
+
+tgt:http://xination.pixnet.net/blog/post/29861636
+MP3fn:page457
+pCnt =  1
+#####################
+
+src:46 <a href="http://xination.pixnet.net/blog/post/29842017">page 456</a>
+
+tgt:http://xination.pixnet.net/blog/post/29842017
+MP3fn:page456
+pCnt =  1
+#####################
+
+src:47 <a href="http://xination.pixnet.net/blog/post/29807973">page 455</a>
+
+tgt:http://xination.pixnet.net/blog/post/29807973
+MP3fn:page455
+pCnt =  1
+#####################
+
+src:48 <a href="http://xination.pixnet.net/blog/post/29777391">page 454</a>
+
+tgt:http://xination.pixnet.net/blog/post/29777391
+MP3fn:page454
+pCnt =  1
+#####################
+
+src:49 <a href="http://xination.pixnet.net/blog/post/29739342">page 453 -- list37</a>
+
+tgt:http://xination.pixnet.net/blog/post/29739342
+MP3fn:page453
+pCnt =  1
+#####################
+
+src:50 <a href="http://xination.pixnet.net/blog/post/29733807">page 452</a>
+
+tgt:http://xination.pixnet.net/blog/post/29733807
+MP3fn:page452
+pCnt =  1
+#####################
+
+src:51 <a href="http://xination.pixnet.net/blog/post/29628051">page 451</a>
+
+tgt:http://xination.pixnet.net/blog/post/29628051
+MP3fn:page451
+pCnt =  1
+#####################
+
+src:52 <a href="http://xination.pixnet.net/blog/post/29562448">page 450</a>
+
+tgt:http://xination.pixnet.net/blog/post/29562448
+MP3fn:page450
+pCnt =  1
+#####################
+
+src:53 <a href="http://xination.pixnet.net/blog/post/29531651">page 449</a>
+
+tgt:http://xination.pixnet.net/blog/post/29531651
+MP3fn:page449
+pCnt =  1
+#####################
+
+src:54 <a href="http://xination.pixnet.net/blog/post/29483460">page 448</a>
+
+tgt:http://xination.pixnet.net/blog/post/29483460
+MP3fn:page448
+pCnt =  1
+#####################
+
+src:55 <a href="http://xination.pixnet.net/blog/post/29447549">page 447</a>
+
+tgt:http://xination.pixnet.net/blog/post/29447549
+MP3fn:page447
+pCnt =  1
+#####################
+
+src:56 <a href="http://xination.pixnet.net/blog/post/29305651">page 446</a>
+
+tgt:http://xination.pixnet.net/blog/post/29305651
+MP3fn:page446
+pCnt =  1
+#####################
+
+src:57 <a href="http://xination.pixnet.net/blog/post/29227434">page 445</a>
+
+tgt:http://xination.pixnet.net/blog/post/29227434
+MP3fn:page445
+pCnt =  1
+#####################
+
+src:58 <a href="http://xination.pixnet.net/blog/post/29164463">page 444</a>
+
+tgt:http://xination.pixnet.net/blog/post/29164463
+MP3fn:page444
+pCnt =  1
+#####################
+
+src:59 <a href="http://xination.pixnet.net/blog/post/28945860">page 443</a>
+
+tgt:http://xination.pixnet.net/blog/post/28945860
+MP3fn:page443
+pCnt =  1
+#####################
+
+src:60 <a href="http://xination.pixnet.net/blog/post/28677483">page 442 </a>
+
+tgt:http://xination.pixnet.net/blog/post/28677483
+MP3fn:page442
+pCnt =  1
+#####################
+
+src:61 <a href="http://xination.pixnet.net/blog/post/28668173">page 441 -- list 36</a>
+
+tgt:http://xination.pixnet.net/blog/post/28668173
+MP3fn:page441
+pCnt =  1
+#####################
+
+src:62 <a href="http://xination.pixnet.net/blog/post/28661197">page 440 with prefix sub- introduction</a>
+
+tgt:http://xination.pixnet.net/blog/post/28661197
+MP3fn:page440
+pCnt =  1
+#####################
+
+src:63 <a href="http://xination.pixnet.net/blog/post/28637526">page 439</a>
+
+tgt:http://xination.pixnet.net/blog/post/28637526
+MP3fn:page439
+pCnt =  1
+#####################
+
+src:64 <a href="http://xination.pixnet.net/blog/post/28629307">page 438</a>
+
+tgt:http://xination.pixnet.net/blog/post/28629307
+MP3fn:page438
+pCnt =  1
+#####################
+
+src:65 <a href="http://xination.pixnet.net/blog/post/28623313">page 437</a>
+
+tgt:http://xination.pixnet.net/blog/post/28623313
+MP3fn:page437
+pCnt =  1
+#####################
+
+src:66 <a href="http://xination.pixnet.net/blog/post/28619187">page 436</a>
+
+tgt:http://xination.pixnet.net/blog/post/28619187
+MP3fn:page436
+pCnt =  1
+#####################
+
+src:67 <a href="http://xination.pixnet.net/blog/post/28609654">page 435</a>
+
+tgt:http://xination.pixnet.net/blog/post/28609654
+MP3fn:page435
+pCnt =  1
+#####################
+
+src:68 <a href="http://xination.pixnet.net/blog/post/28601274">page 434 </a>
+
+tgt:http://xination.pixnet.net/blog/post/28601274
+MP3fn:page434
+pCnt =  1
+#####################
+
+src:69 <a href="http://xination.pixnet.net/blog/post/28574906">page 433</a>
+
+tgt:http://xination.pixnet.net/blog/post/28574906
+MP3fn:page433
+pCnt =  1
+#####################
+
+src:70 <a href="http://xination.pixnet.net/blog/post/28564651">page 432</a>
+
+tgt:http://xination.pixnet.net/blog/post/28564651
+MP3fn:page432
+pCnt =  1
+#####################
+
+src:71 <a href="http://xination.pixnet.net/blog/post/28557247">page 431</a>
+
+tgt:http://xination.pixnet.net/blog/post/28557247
+MP3fn:page431
+pCnt =  1
+#####################
+
+src:22 <a href="http://xination.pixnet.net/blog/post/28551447">page 430 -- list35</a>
+
+tgt:http://xination.pixnet.net/blog/post/28551447
+MP3fn:page430
+pCnt =  1
+#####################
+
+src:23 <a href="http://xination.pixnet.net/blog/post/28551445">page 429</a>
+
+tgt:http://xination.pixnet.net/blog/post/28551445
+MP3fn:page429
+pCnt =  1
+#####################
+
+src:24 <a href="http://xination.pixnet.net/blog/post/28539896">page 428</a>
+
+tgt:http://xination.pixnet.net/blog/post/28539896
+MP3fn:page428
+pCnt =  1
+#####################
+
+src:25 <a href="http://xination.pixnet.net/blog/post/28525093">page 427</a>
+
+tgt:http://xination.pixnet.net/blog/post/28525093
+MP3fn:page427
+pCnt =  1
+#####################
+
+src:26 <a href="http://xination.pixnet.net/blog/post/28517346">page 426</a>
+
+tgt:http://xination.pixnet.net/blog/post/28517346
+MP3fn:page426
+pCnt =  1
+#####################
+
+src:27 <a href="http://xination.pixnet.net/blog/post/28508686">page 425</a>
+
+tgt:http://xination.pixnet.net/blog/post/28508686
+MP3fn:page425
+pCnt =  1
+#####################
+
+src:28 <a href="http://xination.pixnet.net/blog/post/28502536">page 424 </a>
+
+tgt:http://xination.pixnet.net/blog/post/28502536
+MP3fn:page424
+pCnt =  1
+#####################
+
+src:29 <a href="http://xination.pixnet.net/blog/post/28495399">page 423</a>
+
+tgt:http://xination.pixnet.net/blog/post/28495399
+MP3fn:page423
+pCnt =  1
+#####################
+
+src:30 <a href="http://xination.pixnet.net/blog/post/28484875">page 422</a>
+
+tgt:http://xination.pixnet.net/blog/post/28484875
+MP3fn:page422
+pCnt =  1
+#####################
+
+src:31 <a href="http://xination.pixnet.net/blog/post/28478912">page 421</a>
+
+tgt:http://xination.pixnet.net/blog/post/28478912
+MP3fn:page421
+pCnt =  1
+#####################
+
+src:32 <a href="http://xination.pixnet.net/blog/post/28471780">page 420 </a>
+
+tgt:http://xination.pixnet.net/blog/post/28471780
+MP3fn:page420
+pCnt =  1
+#####################
+
+src:33 <a href="http://xination.pixnet.net/blog/post/28465296">page 419 -- list 34</a>
+
+tgt:http://xination.pixnet.net/blog/post/28465296
+MP3fn:page419
+pCnt =  1
+#####################
+
+src:34 <a href="http://xination.pixnet.net/blog/post/28452538">page 418</a>
+
+tgt:http://xination.pixnet.net/blog/post/28452538
+MP3fn:page418
+pCnt =  1
+#####################
+
+src:35 <a href="http://xination.pixnet.net/blog/post/28439697">page 417 </a>
+
+tgt:http://xination.pixnet.net/blog/post/28439697
+MP3fn:page417
+pCnt =  1
+#####################
+
+src:36 <a href="http://xination.pixnet.net/blog/post/28434355">page 416</a>
+
+tgt:http://xination.pixnet.net/blog/post/28434355
+MP3fn:page416
+pCnt =  1
+#####################
+
+src:37 <a href="http://xination.pixnet.net/blog/post/28417536">page 415</a>
+
+tgt:http://xination.pixnet.net/blog/post/28417536
+MP3fn:page415
+pCnt =  1
+#####################
+
+src:38 <a href="http://xination.pixnet.net/blog/post/28417535">page 414</a>
+
+tgt:http://xination.pixnet.net/blog/post/28417535
+MP3fn:page414
+pCnt =  1
+#####################
+
+src:39 <a href="http://xination.pixnet.net/blog/post/28410117">page 413</a>
+
+tgt:http://xination.pixnet.net/blog/post/28410117
+MP3fn:page413
+pCnt =  1
+#####################
+
+src:40 <a href="http://xination.pixnet.net/blog/post/28400743">page 412</a>
+
+tgt:http://xination.pixnet.net/blog/post/28400743
+MP3fn:page412
+pCnt =  1
+#####################
+
+src:41 <a href="http://xination.pixnet.net/blog/post/28392673">page 411</a>
+
+tgt:http://xination.pixnet.net/blog/post/28392673
+MP3fn:page411
+pCnt =  1
+#####################
+
+src:42 <a href="http://xination.pixnet.net/blog/post/28384661">page 410</a>
+
+tgt:http://xination.pixnet.net/blog/post/28384661
+MP3fn:page410
+pCnt =  1
+#####################
+
+src:43 <a href="http://xination.pixnet.net/blog/post/28377917">page 409</a>
+
+tgt:http://xination.pixnet.net/blog/post/28377917
+MP3fn:page409
+pCnt =  1
+#####################
+
+src:44 <a href="http://xination.pixnet.net/blog/post/28100233">page 408 -- list 33</a>
+
+tgt:http://xination.pixnet.net/blog/post/28100233
+MP3fn:page408
+pCnt =  1
+#####################
+
+src:45 <a href="http://xination.pixnet.net/blog/post/28100205">page 407</a>
+
+tgt:http://xination.pixnet.net/blog/post/28100205
+MP3fn:page407
+pCnt =  1
+#####################
+
+src:46 <a href="http://xination.pixnet.net/blog/post/28100179">page 406</a>
+
+tgt:http://xination.pixnet.net/blog/post/28100179
+MP3fn:page406
+pCnt =  1
+#####################
+
+src:47 <a href="http://xination.pixnet.net/blog/post/28100187">page 405</a>
+
+tgt:http://xination.pixnet.net/blog/post/28100187
+MP3fn:page405
+pCnt =  1
+#####################
+
+src:48 <a href="http://xination.pixnet.net/blog/post/28100173">page 404</a>
+
+tgt:http://xination.pixnet.net/blog/post/28100173
+MP3fn:page404
+pCnt =  1
+#####################
+
+src:49 <a href="http://xination.pixnet.net/blog/post/28092629">page 403</a>
+
+tgt:http://xination.pixnet.net/blog/post/28092629
+MP3fn:page403
+pCnt =  1
+#####################
+
+src:50 <a href="http://xination.pixnet.net/blog/post/28074556">page 402</a>
+
+tgt:http://xination.pixnet.net/blog/post/28074556
+MP3fn:page402
+pCnt =  1
+#####################
+
+src:51 <a href="http://xination.pixnet.net/blog/post/28054770">page 401</a>
+
+tgt:http://xination.pixnet.net/blog/post/28054770
+MP3fn:page401
+pCnt =  1
+#####################
+
+src:52 <a href="http://xination.pixnet.net/blog/post/28042088">page 400 ~~~</a>
+
+tgt:http://xination.pixnet.net/blog/post/28042088
+MP3fn:page400
+pCnt =  1
+#####################
+
+src:53 <a href="http://xination.pixnet.net/blog/post/28031554">page 399 </a>
+
+tgt:http://xination.pixnet.net/blog/post/28031554
+MP3fn:page399
+pCnt =  1
+#####################
+
+src:54 <a href="http://xination.pixnet.net/blog/post/28022036">page 398</a>
+
+tgt:http://xination.pixnet.net/blog/post/28022036
+MP3fn:page398
+pCnt =  1
+#####################
+
+src:55 <a href="http://xination.pixnet.net/blog/post/28012844">page 397</a>
+
+tgt:http://xination.pixnet.net/blog/post/28012844
+MP3fn:page397
+pCnt =  1
+#####################
+
+src:56 <a href="http://xination.pixnet.net/blog/post/28005582">page 396</a>
+
+tgt:http://xination.pixnet.net/blog/post/28005582
+MP3fn:page396
+pCnt =  1
+#####################
+
+src:57 <a href="http://xination.pixnet.net/blog/post/27996848">page 395 -- List32</a>
+
+tgt:http://xination.pixnet.net/blog/post/27996848
+MP3fn:page395
+pCnt =  1
+#####################
+
+src:58 <a href="http://xination.pixnet.net/blog/post/27967790">page 394</a>
+
+tgt:http://xination.pixnet.net/blog/post/27967790
+MP3fn:page394
+pCnt =  1
+#####################
+
+src:59 <a href="http://xination.pixnet.net/blog/post/27715977">page 393</a>
+
+tgt:http://xination.pixnet.net/blog/post/27715977
+MP3fn:page393
+pCnt =  1
+#####################
+
+src:60 <a href="http://xination.pixnet.net/blog/post/27715967">page 392 </a>
+
+tgt:http://xination.pixnet.net/blog/post/27715967
+MP3fn:page392
+pCnt =  1
+#####################
+
+src:61 <a href="http://xination.pixnet.net/blog/post/27677431">page 391 -- very long</a>
+
+tgt:http://xination.pixnet.net/blog/post/27677431
+MP3fn:page391
+pCnt =  1
+#####################
+
+src:62 <a href="http://xination.pixnet.net/blog/post/27677161">page 390</a>
+
+tgt:http://xination.pixnet.net/blog/post/27677161
+MP3fn:page390
+pCnt =  1
+#####################
+
+src:63 <a href="http://xination.pixnet.net/blog/post/27352356">page 389</a>
+
+tgt:http://xination.pixnet.net/blog/post/27352356
+MP3fn:page389
+pCnt =  1
+#####################
+
+src:64 <a href="http://xination.pixnet.net/blog/post/27352320">page 388</a>
+
+tgt:http://xination.pixnet.net/blog/post/27352320
+MP3fn:page388
+pCnt =  1
+#####################
+
+src:65 <a href="http://xination.pixnet.net/blog/post/27312180">page 387</a>
+
+tgt:http://xination.pixnet.net/blog/post/27312180
+MP3fn:page387
+pCnt =  1
+#####################
+
+src:66 <a href="http://xination.pixnet.net/blog/post/27312168">page 386</a>
+
+tgt:http://xination.pixnet.net/blog/post/27312168
+MP3fn:page386
+pCnt =  1
+#####################
+
+src:67 <a href="http://xination.pixnet.net/blog/post/27288394">page 385</a>
+
+tgt:http://xination.pixnet.net/blog/post/27288394
+MP3fn:page385
+pCnt =  1
+#####################
+
+src:68 <a href="http://xination.pixnet.net/blog/post/27286142">page 384 -- list 31</a>
+
+tgt:http://xination.pixnet.net/blog/post/27286142
+MP3fn:page384
+pCnt =  1
+#####################
+
+src:69 <a href="http://xination.pixnet.net/blog/post/27250848">page 383</a>
+
+tgt:http://xination.pixnet.net/blog/post/27250848
+MP3fn:page383
+pCnt =  1
+#####################
+
+src:70 <a href="http://xination.pixnet.net/blog/post/27250826">page 382</a>
+
+tgt:http://xination.pixnet.net/blog/post/27250826
+MP3fn:page382
+pCnt =  1
+#####################
+
+src:71 <a href="http://xination.pixnet.net/blog/post/27229932">page 381</a>
+
+tgt:http://xination.pixnet.net/blog/post/27229932
+MP3fn:page381
+pCnt =  1
+#####################
+
+src:22 <a href="http://xination.pixnet.net/blog/post/27229904">page 380</a>
+
+tgt:http://xination.pixnet.net/blog/post/27229904
+MP3fn:page380
+pCnt =  1
+#####################
+
+src:23 <a href="http://xination.pixnet.net/blog/post/27203946">page 379</a>
+
+tgt:http://xination.pixnet.net/blog/post/27203946
+MP3fn:page379
+pCnt =  1
+#####################
+
+src:24 <a href="http://xination.pixnet.net/blog/post/27203934">page 378</a>
+
+tgt:http://xination.pixnet.net/blog/post/27203934
+MP3fn:page378
+pCnt =  1
+#####################
+
+src:25 <a href="http://xination.pixnet.net/blog/post/27180132">page 377</a>
+
+tgt:http://xination.pixnet.net/blog/post/27180132
+MP3fn:page377
+pCnt =  1
+#####################
+
+src:26 <a href="http://xination.pixnet.net/blog/post/27180122-page-376">page 376</a>
+
+tgt:http://xination.pixnet.net/blog/post/27180122-page-376
+MP3fn:pageError
+pCnt =  1
+#####################
+
+src:27 <a href="http://xination.pixnet.net/blog/post/27132111">page 375</a>
+
+tgt:http://xination.pixnet.net/blog/post/27132111
+MP3fn:page375
+pCnt =  1
+#####################
+
+src:28 <a href="http://xination.pixnet.net/blog/post/27132097">page 374</a>
+
+tgt:http://xination.pixnet.net/blog/post/27132097
+MP3fn:page374
+pCnt =  1
+#####################
+
+src:29 <a href="http://xination.pixnet.net/blog/post/27107515">page 373</a>
+
+tgt:http://xination.pixnet.net/blog/post/27107515
+MP3fn:page373
+pCnt =  1
+#####################
+
+src:30 <a href="http://xination.pixnet.net/blog/post/27107497">page 372</a>
+
+tgt:http://xination.pixnet.net/blog/post/27107497
+MP3fn:page372
+pCnt =  1
+#####################
+
+src:31 <a href="http://xination.pixnet.net/blog/post/27089857">page 371</a>
+
+tgt:http://xination.pixnet.net/blog/post/27089857
+MP3fn:page371
+pCnt =  1
+#####################
+
+src:32 <a href="http://xination.pixnet.net/blog/post/27037529">page 370 -- list 30</a>
+
+tgt:http://xination.pixnet.net/blog/post/27037529
+MP3fn:page370
+pCnt =  1
+#####################
+
+src:33 <a href="http://xination.pixnet.net/blog/post/27037525">page 369</a>
+
+tgt:http://xination.pixnet.net/blog/post/27037525
+MP3fn:page369
+pCnt =  1
+#####################
+
+src:34 <a href="http://xination.pixnet.net/blog/post/27011395">page 368</a>
+
+tgt:http://xination.pixnet.net/blog/post/27011395
+MP3fn:page368
+pCnt =  1
+#####################
+
+src:35 <a href="http://xination.pixnet.net/blog/post/27011351">page 367</a>
+
+tgt:http://xination.pixnet.net/blog/post/27011351
+MP3fn:page367
+pCnt =  1
+#####################
+
+src:36 <a href="http://xination.pixnet.net/blog/post/26991121">page 366</a>
+
+tgt:http://xination.pixnet.net/blog/post/26991121
+MP3fn:page366
+pCnt =  1
+#####################
+
+src:37 <a href="http://xination.pixnet.net/blog/post/26991153">page 365</a>
+
+tgt:http://xination.pixnet.net/blog/post/26991153
+MP3fn:page365
+pCnt =  1
+#####################
+
+src:38 <a href="http://xination.pixnet.net/blog/post/26954229">page 364</a>
+
+tgt:http://xination.pixnet.net/blog/post/26954229
+MP3fn:page364
+pCnt =  1
+#####################
+
+src:39 <a href="http://xination.pixnet.net/blog/post/26954213">page 363</a>
+
+tgt:http://xination.pixnet.net/blog/post/26954213
+MP3fn:page363
+pCnt =  1
+#####################
+
+src:40 <a href="http://xination.pixnet.net/blog/post/26922535">page 362</a>
+
+tgt:http://xination.pixnet.net/blog/post/26922535
+MP3fn:page362
+pCnt =  1
+#####################
+
+src:41 <a href="http://xination.pixnet.net/blog/post/26922425">page 361</a>
+
+tgt:http://xination.pixnet.net/blog/post/26922425
+MP3fn:page361
+pCnt =  1
+#####################
+
+src:42 <a href="http://xination.pixnet.net/blog/post/26899400">page 360</a>
+
+tgt:http://xination.pixnet.net/blog/post/26899400
+MP3fn:page360
+pCnt =  1
+#####################
+
+src:43 <a href="http://xination.pixnet.net/blog/post/26899268">page 359</a>
+
+tgt:http://xination.pixnet.net/blog/post/26899268
+MP3fn:page359
+pCnt =  1
+#####################
+
+src:44 <a href="http://xination.pixnet.net/blog/post/26899264">page 358 -- list 29</a>
+
+tgt:http://xination.pixnet.net/blog/post/26899264
+MP3fn:page358
+pCnt =  1
+#####################
+
+src:45 <a href="http://xination.pixnet.net/blog/post/26733475">page 357</a>
+
+tgt:http://xination.pixnet.net/blog/post/26733475
+MP3fn:page357
+pCnt =  1
+#####################
+
+src:46 <a href="http://xination.pixnet.net/blog/post/26733473">page 356</a>
+
+tgt:http://xination.pixnet.net/blog/post/26733473
+MP3fn:page356
+pCnt =  1
+#####################
+
+src:47 <a href="http://xination.pixnet.net/blog/post/26659387">page 355</a>
+
+tgt:http://xination.pixnet.net/blog/post/26659387
+MP3fn:page355
+pCnt =  1
+#####################
+
+src:48 <a href="http://xination.pixnet.net/blog/post/26648571">page 354</a>
+
+tgt:http://xination.pixnet.net/blog/post/26648571
+MP3fn:page354
+pCnt =  1
+#####################
+
+src:49 <a href="http://xination.pixnet.net/blog/post/26625997">page 353</a>
+
+tgt:http://xination.pixnet.net/blog/post/26625997
+MP3fn:page353
+pCnt =  1
+#####################
+
+src:50 <a href="http://xination.pixnet.net/blog/post/26321125">page 352</a>
+
+tgt:http://xination.pixnet.net/blog/post/26321125
+MP3fn:page352
+pCnt =  1
+#####################
+
+src:51 <a href="http://xination.pixnet.net/blog/post/26257265">page 351</a>
+
+tgt:http://xination.pixnet.net/blog/post/26257265
+MP3fn:page351
+pCnt =  1
+#####################
+
+src:52 <a href="http://xination.pixnet.net/blog/post/26240631">page 350</a>
+
+tgt:http://xination.pixnet.net/blog/post/26240631
+MP3fn:page350
+pCnt =  1
+#####################
+
+src:53 <a href="http://xination.pixnet.net/blog/post/26230499">page 349</a>
+
+tgt:http://xination.pixnet.net/blog/post/26230499
+MP3fn:page349
+pCnt =  1
+#####################
+
+src:54 <a href="http://xination.pixnet.net/blog/post/26221901">page 348</a>
+
+tgt:http://xination.pixnet.net/blog/post/26221901
+MP3fn:page348
+pCnt =  1
+#####################
+
+src:55 <a href="http://xination.pixnet.net/blog/post/26200281">page 347</a>
+
+tgt:http://xination.pixnet.net/blog/post/26200281
+MP3fn:page347
+pCnt =  1
+#####################
+
+src:56 <a href="http://xination.pixnet.net/blog/post/26187095">page 346</a>
+
+tgt:http://xination.pixnet.net/blog/post/26187095
+MP3fn:page346
+pCnt =  1
+#####################
+
+src:57 <a href="http://xination.pixnet.net/blog/post/26181705">page 345 --- list 28</a>
+
+tgt:http://xination.pixnet.net/blog/post/26181705
+MP3fn:page345
+pCnt =  1
+#####################
+
+src:58 <a href="http://xination.pixnet.net/blog/post/25353375">page 344 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25353375
+MP3fn:page344
+pCnt =  1
+#####################
+
+src:59 <a href="http://xination.pixnet.net/blog/post/25353371">page 343 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25353371
+MP3fn:page343
+pCnt =  1
+#####################
+
+src:60 <a href="http://xination.pixnet.net/blog/post/25353366">page 342 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25353366
+MP3fn:page342
+pCnt =  1
+#####################
+
+src:61 <a href="http://xination.pixnet.net/blog/post/25353357">page 341</a>
+
+tgt:http://xination.pixnet.net/blog/post/25353357
+MP3fn:page341
+pCnt =  1
+#####################
+
+src:62 <a href="http://xination.pixnet.net/blog/post/25260502">page 340 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25260502
+MP3fn:page340
+pCnt =  1
+#####################
+
+src:63 <a href="http://xination.pixnet.net/blog/post/25260441">page 339 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25260441
+MP3fn:page339
+pCnt =  1
+#####################
+
+src:64 <a href="http://xination.pixnet.net/blog/post/25260433">page 338 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25260433
+MP3fn:page338
+pCnt =  1
+#####################
+
+src:65 <a href="http://xination.pixnet.net/blog/post/25260425">page 337 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25260425
+MP3fn:page337
+pCnt =  1
+#####################
+
+src:66 <a href="http://xination.pixnet.net/blog/post/25260401">page 336 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25260401
+MP3fn:page336
+pCnt =  1
+#####################
+
+src:67 <a href="http://xination.pixnet.net/blog/post/25183235">page 335 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25183235
+MP3fn:page335
+pCnt =  1
+#####################
+
+src:68 <a href="http://xination.pixnet.net/blog/post/25183229">page 334 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25183229
+MP3fn:page334
+pCnt =  1
+#####################
+
+src:69 <a href="http://xination.pixnet.net/blog/post/25183227">page 333 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25183227
+MP3fn:page333
+pCnt =  1
+#####################
+
+src:70 <a href="http://xination.pixnet.net/blog/post/25183225">page 332 -- List 27 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25183225
+MP3fn:page332
+pCnt =  1
+#####################
+
+src:71 <a href="http://xination.pixnet.net/blog/post/25183222">page 331</a>
+
+tgt:http://xination.pixnet.net/blog/post/25183222
+MP3fn:page331
+pCnt =  1
+#####################
+
+src:22 <a href="http://xination.pixnet.net/blog/post/25164227">page 330 --  這頁寫很< /a>
+
+tgt:http://xination.pixnet.net/blog/post/25164227
+MP3fn:page330
+pCnt =  1
+#####################
+
+src:23 <a href="http://xination.pixnet.net/blog/post/25144018">page 329 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25144018
+MP3fn:page329
+pCnt =  1
+#####################
+
+src:24 <a href="http://xination.pixnet.net/blog/post/25120608">page 328 --  這頁看起來滿多的</a>
+
+tgt:http://xination.pixnet.net/blog/post/25120608
+MP3fn:page328
+pCnt =  1
+#####################
+
+src:25 <a href="http://xination.pixnet.net/blog/post/25120594">page 327 --  字首 ob 的講解  </a>
+
+tgt:http://xination.pixnet.net/blog/post/25120594
+MP3fn:page327
+pCnt =  1
+#####################
+
+src:26 <a href="http://xination.pixnet.net/blog/post/25042362">page 326 --  影片多到爆炸的一頁 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25042362
+MP3fn:page326
+pCnt =  1
+#####################
+
+src:27 <a href="http://xination.pixnet.net/blog/post/25042360">page 325 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25042360
+MP3fn:page325
+pCnt =  1
+#####################
+
+src:28 <a href="http://xination.pixnet.net/blog/post/25042350">page 324 </a>
+
+tgt:http://xination.pixnet.net/blog/post/25042350
+MP3fn:page324
+pCnt =  1
+#####################
+
+src:29 <a href="http://xination.pixnet.net/blog/post/24973583">page 323  -- 這頁很長</a>
+
+tgt:http://xination.pixnet.net/blog/post/24973583
+MP3fn:page323
+pCnt =  1
+#####################
+
+src:30 <a href="http://xination.pixnet.net/blog/post/24973579">page 322  </a>
+
+tgt:http://xination.pixnet.net/blog/post/24973579
+MP3fn:page322
+pCnt =  1
+#####################
+
+src:31 <a href="http://xination.pixnet.net/blog/post/24973570">page 321 -- list 26 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24973570
+MP3fn:page321
+pCnt =  1
+#####################
+
+src:32 <a href="http://xination.pixnet.net/blog/post/24932490">page 320 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24932490
+MP3fn:page320
+pCnt =  1
+#####################
+
+src:33 <a href="http://xination.pixnet.net/blog/post/24932468">page 319 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24932468
+MP3fn:page319
+pCnt =  1
+#####################
+
+src:34 <a href="http://xination.pixnet.net/blog/post/24932448">page 318 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24932448
+MP3fn:page318
+pCnt =  1
+#####################
+
+src:35 <a href="http://xination.pixnet.net/blog/post/24758828">page 317 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24758828
+MP3fn:page317
+pCnt =  1
+#####################
+
+src:36 <a href="http://xination.pixnet.net/blog/post/24758813">page 316 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24758813
+MP3fn:page316
+pCnt =  1
+#####################
+
+src:37 <a href="http://xination.pixnet.net/blog/post/24758768">page 315  </a>
+
+tgt:http://xination.pixnet.net/blog/post/24758768
+MP3fn:page315
+pCnt =  1
+#####################
+
+src:38 <a href="http://xination.pixnet.net/blog/post/24271032">page 314 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24271032
+MP3fn:page314
+pCnt =  0
+#####################
+
+src:39 <a href="http://xination.pixnet.net/blog/post/24271022">page 313 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24271022
+MP3fn:page313
+pCnt =  0
+#####################
+
+src:40 <a href="http://xination.pixnet.net/blog/post/24271015">page 312</a>
+
+tgt:http://xination.pixnet.net/blog/post/24271015
+MP3fn:page312
+pCnt =  0
+#####################
+
+src:41 <a href="http://xination.pixnet.net/blog/post/24271007">page 311 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24271007
+MP3fn:page311
+pCnt =  0
+#####################
+
+src:42 <a href="http://xination.pixnet.net/blog/post/24271001">page 310 list 25 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24271001
+MP3fn:page310
+pCnt =  0
+#####################
+
+src:43 <a href="http://xination.pixnet.net/blog/post/24047125">page 309 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24047125
+MP3fn:page309
+pCnt =  0
+#####################
+
+src:44 <a href="http://xination.pixnet.net/blog/post/24047100">page 308 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24047100
+MP3fn:page308
+pCnt =  0
+#####################
+
+src:45 <a href="http://xination.pixnet.net/blog/post/24047051">page 307 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24047051
+MP3fn:page307
+pCnt =  0
+#####################
+
+src:46 <a href="http://xination.pixnet.net/blog/post/24046897">page 306 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24046897
+MP3fn:page306
+pCnt =  0
+#####################
+
+src:47 <a href="http://xination.pixnet.net/blog/post/24046843">page 305 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24046843
+MP3fn:page305
+pCnt =  0
+#####################
+
+src:48 <a href="http://xination.pixnet.net/blog/post/24046813">page 304 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24046813
+MP3fn:page304
+pCnt =  1
+#####################
+
+src:49 <a href="http://xination.pixnet.net/blog/post/24046793">page 303 </a>
+
+tgt:http://xination.pixnet.net/blog/post/24046793
+MP3fn:page303
+pCnt =  0
+#####################
+
+src:50 <a href="http://xination.pixnet.net/blog/post/23997849">page 302  </a>
+
+tgt:http://xination.pixnet.net/blog/post/23997849
+MP3fn:page302
+pCnt =  1
+#####################
+
+src:51 <a href="http://xination.pixnet.net/blog/post/23997823">page 301 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23997823
+MP3fn:page301
+pCnt =  0
+#####################
+
+src:52 <a href="http://xination.pixnet.net/blog/post/23997761">page 300  終 於到三百了撒花～～</a>
+
+tgt:http://xination.pixnet.net/blog/post/23997761
+MP3fn:page300
+pCnt =  0
+#####################
+
+src:53 <a href="http://xination.pixnet.net/blog/post/23997739">page 299 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23997739
+MP3fn:page299
+pCnt =  0
+#####################
+
+src:54 <a href="http://xination.pixnet.net/blog/post/23997131">page 298 -list 24 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23997131
+MP3fn:page298
+pCnt =  0
+#####################
+
+src:55 <a href="http://xination.pixnet.net/blog/post/23925478">page 297 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23925478
+MP3fn:page297
+pCnt =  0
+#####################
+
+src:56 <a href="http://xination.pixnet.net/blog/post/23925444">page 296 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23925444
+MP3fn:page296
+pCnt =  0
+#####################
+
+src:57 <a href="http://xination.pixnet.net/blog/post/23925413">page 295 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23925413
+MP3fn:page295
+pCnt =  0
+#####################
+
+src:58 <a href="http://xination.pixnet.net/blog/post/23925376">page 294 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23925376
+MP3fn:page294
+pCnt =  0
+#####################
+
+src:59 <a href="http://xination.pixnet.net/blog/post/23925353">page 293 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23925353
+MP3fn:page293
+pCnt =  0
+#####################
+
+src:60 <a href="http://xination.pixnet.net/blog/post/23864725">page 292 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23864725
+MP3fn:page292
+pCnt =  0
+#####################
+
+src:61 <a href="http://xination.pixnet.net/blog/post/23864698">page 291 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23864698
+MP3fn:page291
+pCnt =  0
+#####################
+
+src:62 <a href="http://xination.pixnet.net/blog/post/23864669">page 290 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23864669
+MP3fn:page290
+pCnt =  0
+#####################
+
+src:63 <a href="http://xination.pixnet.net/blog/post/23864627">page 289</a>
+
+tgt:http://xination.pixnet.net/blog/post/23864627
+MP3fn:page289
+pCnt =  0
+#####################
+
+src:64 <a href="http://xination.pixnet.net/blog/post/23801225">page 288 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23801225
+MP3fn:page288
+pCnt =  0
+#####################
+
+src:65 <a href="http://xination.pixnet.net/blog/post/23801126">page 287 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23801126
+MP3fn:page287
+pCnt =  0
+#####################
+
+src:66 <a href="http://xination.pixnet.net/blog/post/23801094">page 286 -- list23</a>
+
+tgt:http://xination.pixnet.net/blog/post/23801094
+MP3fn:page286
+pCnt =  0
+#####################
+
+src:67 <a href="http://xination.pixnet.net/blog/post/23801027">page 285 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23801027
+MP3fn:page285
+pCnt =  0
+#####################
+
+src:68 <a href="http://xination.pixnet.net/blog/post/23800833">page 284 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23800833
+MP3fn:page284
+pCnt =  0
+#####################
+
+src:69 <a href="http://xination.pixnet.net/blog/post/23745779">page 283 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23745779
+MP3fn:page283
+pCnt =  0
+#####################
+
+src:70 <a href="http://xination.pixnet.net/blog/post/23745758">page 282 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23745758
+MP3fn:page282
+pCnt =  0
+#####################
+
+src:71 <a href="http://xination.pixnet.net/blog/post/23745737">page 281 --  字還滿多  </a>
+
+tgt:http://xination.pixnet.net/blog/post/23745737
+MP3fn:page281
+pCnt =  0
+#####################
+
+src:22 <a href="http://xination.pixnet.net/blog/post/23745680">page 280 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23745680
+MP3fn:page280
+pCnt =  0
+#####################
+
+src:23 <a href="http://xination.pixnet.net/blog/post/23744821">page 279 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23744821
+MP3fn:page279
+pCnt =  0
+#####################
+
+src:24 <a href="http://xination.pixnet.net/blog/post/23744800">page  278 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23744800
+MP3fn:page278
+pCnt =  0
+#####################
+
+src:25 <a href="http://xination.pixnet.net/blog/post/23697529">page 277 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23697529
+MP3fn:page277
+pCnt =  0
+#####################
+
+src:26 <a href="http://xination.pixnet.net/blog/post/23697475">page 276 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23697475
+MP3fn:page276
+pCnt =  0
+#####################
+
+src:27 <a href="http://xination.pixnet.net/blog/post/23658540">page 275 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23658540
+MP3fn:page275
+pCnt =  0
+#####################
+
+src:28 <a href="http://xination.pixnet.net/blog/post/23658523">page 274 -- list 22</a>
+
+tgt:http://xination.pixnet.net/blog/post/23658523
+MP3fn:page274
+pCnt =  0
+#####################
+
+src:29 <a href="http://xination.pixnet.net/blog/post/23658504">page 273 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23658504
+MP3fn:page273
+pCnt =  0
+#####################
+
+src:30 <a href="http://xination.pixnet.net/blog/post/23658495">page 272 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23658495
+MP3fn:page272
+pCnt =  0
+#####################
+
+src:31 <a href="http://xination.pixnet.net/blog/post/23658466">page 271 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23658466
+MP3fn:page271
+pCnt =  0
+#####################
+
+src:32 <a href="http://xination.pixnet.net/blog/post/23658457">page 270 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23658457
+MP3fn:page270
+pCnt =  0
+#####################
+
+src:33 <a href="http://xination.pixnet.net/blog/post/23570395">page 269 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23570395
+MP3fn:page269
+pCnt =  0
+#####################
+
+src:34 <a href="http://xination.pixnet.net/blog/post/23570344">page 268 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23570344
+MP3fn:page268
+pCnt =  0
+#####################
+
+src:35 <a href="http://xination.pixnet.net/blog/post/23570268">page 267 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23570268
+MP3fn:page267
+pCnt =  0
+#####################
+
+src:36 <a href="http://xination.pixnet.net/blog/post/23564265">page 266 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23564265
+MP3fn:page266
+pCnt =  0
+#####################
+
+src:37 <a href="http://xination.pixnet.net/blog/post/23564200">page 265 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23564200
+MP3fn:page265
+pCnt =  0
+#####################
+
+src:38 <a href="http://xination.pixnet.net/blog/post/23564146">page 264 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23564146
+MP3fn:page264
+pCnt =  0
+#####################
+
+src:39 <a href="http://xination.pixnet.net/blog/post/23564107">page 263</a>
+
+tgt:http://xination.pixnet.net/blog/post/23564107
+MP3fn:page263
+pCnt =  0
+#####################
+
+src:40 <a href="http://xination.pixnet.net/blog/post/23564075">page 262  (滿有趣的一) </a>
+
+tgt:http://xination.pixnet.net/blog/post/23564075
+MP3fn:page262
+pCnt =  0
+#####################
+
+src:41 <a href="http://xination.pixnet.net/blog/post/23564028">page 261 -- list 21</a>
+
+tgt:http://xination.pixnet.net/blog/post/23564028
+MP3fn:page261
+pCnt =  0
+#####################
+
+src:42 <a href="http://xination.pixnet.net/blog/post/23365746">page 260 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23365746
+MP3fn:page260
+pCnt =  0
+#####################
+
+src:43 <a href="http://xination.pixnet.net/blog/post/23365744">page 259 --review dign 系列</a>
+
+tgt:http://xination.pixnet.net/blog/post/23365744
+MP3fn:page259
+pCnt =  0
+#####################
+
+src:44 <a href="http://xination.pixnet.net/blog/post/23365739">page 258 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23365739
+MP3fn:page258
+pCnt =  0
+#####################
+
+src:45 <a href="http://xination.pixnet.net/blog/post/23365737">page 257 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23365737
+MP3fn:page257
+pCnt =  0
+#####################
+
+src:46 <a href="http://xination.pixnet.net/blog/post/23365736">page 256</a>
+
+tgt:http://xination.pixnet.net/blog/post/23365736
+MP3fn:page256
+pCnt =  0
+#####################
+
+src:47 <a href="http://xination.pixnet.net/blog/post/23365734">page 255 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23365734
+MP3fn:page255
+pCnt =  0
+#####################
+
+src:48 <a href="http://xination.pixnet.net/blog/post/23365733">page 254 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23365733
+MP3fn:page254
+pCnt =  0
+#####################
+
+src:49 <a href="http://xination.pixnet.net/blog/post/23316801">page 253</a>
+
+tgt:http://xination.pixnet.net/blog/post/23316801
+MP3fn:page253
+pCnt =  0
+#####################
+
+src:50 <a href="http://xination.pixnet.net/blog/post/23316799">page 252 -- provide系  </a>
+
+tgt:http://xination.pixnet.net/blog/post/23316799
+MP3fn:page252
+pCnt =  0
+#####################
+
+src:51 <a href="http://xination.pixnet.net/blog/post/23316797">page 251 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23316797
+MP3fn:page251
+pCnt =  0
+#####################
+
+src:52 <a href="http://xination.pixnet.net/blog/post/23316795">page 250  </a>
+
+tgt:http://xination.pixnet.net/blog/post/23316795
+MP3fn:page250
+pCnt =  0
+#####################
+
+src:53 <a href="http://xination.pixnet.net/blog/post/23316794">page 249 -此 頁太讚了</a>
+
+tgt:http://xination.pixnet.net/blog/post/23316794
+MP3fn:page249
+pCnt =  0
+#####################
+
+src:54 <a href="http://xination.pixnet.net/blog/post/23316793">page 248  -- list 20</a>
+
+tgt:http://xination.pixnet.net/blog/post/23316793
+MP3fn:page248
+pCnt =  0
+#####################
+
+src:55 <a href="http://xination.pixnet.net/blog/post/23267314">page 247 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23267314
+MP3fn:page247
+pCnt =  0
+#####################
+
+src:56 <a href="http://xination.pixnet.net/blog/post/23266756">page 246 字根的reveiw</a>
+
+tgt:http://xination.pixnet.net/blog/post/23266756
+MP3fn:page246
+pCnt =  0
+#####################
+
+src:57 <a href="http://xination.pixnet.net/blog/post/23266752">page 245 -這 頁煞費苦  =_= </a>
+
+tgt:http://xination.pixnet.net/blog/post/23266752
+MP3fn:page245
+pCnt =  0
+#####################
+
+src:58 <a href="http://xination.pixnet.net/blog/post/23266740">page 244 --  字首in-的 介紹</a>
+
+tgt:http://xination.pixnet.net/blog/post/23266740
+MP3fn:page244
+pCnt =  0
+#####################
+
+src:59 <a href="http://xination.pixnet.net/blog/post/23266734">page 243 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23266734
+MP3fn:page243
+pCnt =  0
+#####################
+
+src:60 <a href="http://xination.pixnet.net/blog/post/23266723">page 242</a>
+
+tgt:http://xination.pixnet.net/blog/post/23266723
+MP3fn:page242
+pCnt =  0
+#####################
+
+src:61 <a href="http://xination.pixnet.net/blog/post/23215515">page 241 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23215515
+MP3fn:page241
+pCnt =  0
+#####################
+
+src:62 <a href="http://xination.pixnet.net/blog/post/23215509">page 240 --  這頁編的好辛苦 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23215509
+MP3fn:page240
+pCnt =  0
+#####################
+
+src:63 <a href="http://xination.pixnet.net/blog/post/23215504">page 239</a>
+
+tgt:http://xination.pixnet.net/blog/post/23215504
+MP3fn:page239
+pCnt =  0
+#####################
+
+src:64 <a href="http://xination.pixnet.net/blog/post/23215492">page 238 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23215492
+MP3fn:page238
+pCnt =  0
+#####################
+
+src:65 <a href="http://xination.pixnet.net/blog/post/23215486">page 237 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23215486
+MP3fn:page237
+pCnt =  0
+#####################
+
+src:66 <a href="http://xination.pixnet.net/blog/post/23215479">page 236 -- list19</a>
+
+tgt:http://xination.pixnet.net/blog/post/23215479
+MP3fn:page236
+pCnt =  0
+#####################
+
+src:67 <a href="http://xination.pixnet.net/blog/post/23181815">page 235 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23181815
+MP3fn:page235
+pCnt =  0
+#####################
+
+src:68 <a href="http://xination.pixnet.net/blog/post/23148882">page 234 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23148882
+MP3fn:page234
+pCnt =  0
+#####################
+
+src:69 <a href="http://xination.pixnet.net/blog/post/23148875">page 233 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23148875
+MP3fn:page233
+pCnt =  0
+#####################
+
+src:70 <a href="http://xination.pixnet.net/blog/post/23148872">page 232 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23148872
+MP3fn:page232
+pCnt =  0
+#####################
+
+src:71 <a href="http://xination.pixnet.net/blog/post/23148871">page 231 </a>
+
+tgt:http://xination.pixnet.net/blog/post/23148871
+MP3fn:page231
+pCnt =  0
+#####################
+
+src:22 <a href="http://xination.pixnet.net/blog/post/22926410">page 230 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22926410
+MP3fn:page230
+pCnt =  0
+#####################
+
+src:23 <a href="http://xination.pixnet.net/blog/post/22926408">page 229 --非常多字 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22926408
+MP3fn:page229
+pCnt =  0
+#####################
+
+src:24 <a href="http://xination.pixnet.net/blog/post/22926407">page 228 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22926407
+MP3fn:page228
+pCnt =  0
+#####################
+
+src:25 <a href="http://xination.pixnet.net/blog/post/22926404">page 227</a>
+
+tgt:http://xination.pixnet.net/blog/post/22926404
+MP3fn:page227
+pCnt =  0
+#####################
+
+src:26 <a href="http://xination.pixnet.net/blog/post/22926403">page 226 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22926403
+MP3fn:page226
+pCnt =  0
+#####################
+
+src:27 <a href="http://xination.pixnet.net/blog/post/22926401">page 225 -- list18</a>
+
+tgt:http://xination.pixnet.net/blog/post/22926401
+MP3fn:page225
+pCnt =  0
+#####################
+
+src:28 <a href="http://xination.pixnet.net/blog/post/22688619">page 224 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22688619
+MP3fn:page224
+pCnt =  0
+#####################
+
+src:29 <a href="http://xination.pixnet.net/blog/post/22688618">page 223</a>
+
+tgt:http://xination.pixnet.net/blog/post/22688618
+MP3fn:page223
+pCnt =  0
+#####################
+
+src:30 <a href="http://xination.pixnet.net/blog/post/22688613">page 222</a>
+
+tgt:http://xination.pixnet.net/blog/post/22688613
+MP3fn:page222
+pCnt =  0
+#####################
+
+src:31 <a href="http://xination.pixnet.net/blog/post/22688608">page 221 --  還滿多字< /a>
+
+tgt:http://xination.pixnet.net/blog/post/22688608
+MP3fn:page221
+pCnt =  0
+#####################
+
+src:32 <a href="http://xination.pixnet.net/blog/post/22688595">page 220 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22688595
+MP3fn:page220
+pCnt =  0
+#####################
+
+src:33 <a href="http://xination.pixnet.net/blog/post/22688590">page 219</a>
+
+tgt:http://xination.pixnet.net/blog/post/22688590
+MP3fn:page219
+pCnt =  0
+#####################
+
+src:34 <a href="http://xination.pixnet.net/blog/post/22688586">page 218 - 很不錯的一< /a>
+
+tgt:http://xination.pixnet.net/blog/post/22688586
+MP3fn:page218
+pCnt =  0
+#####################
+
+src:35 <a href="http://xination.pixnet.net/blog/post/22688581">page 217 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22688581
+MP3fn:page217
+pCnt =  0
+#####################
+
+src:36 <a href="http://xination.pixnet.net/blog/post/22688577">page 216 --  有趣的一< /a>
+
+tgt:http://xination.pixnet.net/blog/post/22688577
+MP3fn:page216
+pCnt =  0
+#####################
+
+src:37 <a href="http://xination.pixnet.net/blog/post/22688569">page 215 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22688569
+MP3fn:page215
+pCnt =  0
+#####################
+
+src:38 <a href="http://xination.pixnet.net/blog/post/22688565">page 214 -- list17</a>
+
+tgt:http://xination.pixnet.net/blog/post/22688565
+MP3fn:page214
+pCnt =  0
+#####################
+
+src:39 <a href="http://xination.pixnet.net/blog/post/22513154">page 213 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22513154
+MP3fn:page213
+pCnt =  0
+#####################
+
+src:40 <a href="http://xination.pixnet.net/blog/post/22513152">page 212</a>
+
+tgt:http://xination.pixnet.net/blog/post/22513152
+MP3fn:page212
+pCnt =  0
+#####################
+
+src:41 <a href="http://xination.pixnet.net/blog/post/22513149">page 211</a>
+
+tgt:http://xination.pixnet.net/blog/post/22513149
+MP3fn:page211
+pCnt =  0
+#####################
+
+src:42 <a href="http://xination.pixnet.net/blog/post/22513148">page 210 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22513148
+MP3fn:page210
+pCnt =  0
+#####################
+
+src:43 <a href="http://xination.pixnet.net/blog/post/22513147">page 209 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22513147
+MP3fn:page209
+pCnt =  0
+#####################
+
+src:44 <a href="http://xination.pixnet.net/blog/post/22513146">page 208 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22513146
+MP3fn:page208
+pCnt =  0
+#####################
+
+src:45 <a href="http://xination.pixnet.net/blog/post/22513144">page 207 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22513144
+MP3fn:page207
+pCnt =  0
+#####################
+
+src:46 <a href="http://xination.pixnet.net/blog/post/22513143">page 206</a>
+
+tgt:http://xination.pixnet.net/blog/post/22513143
+MP3fn:page206
+pCnt =  0
+#####################
+
+src:47 <a href="http://xination.pixnet.net/blog/post/22513142">page 205 --圖很多 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22513142
+MP3fn:page205
+pCnt =  0
+#####################
+
+src:48 <a href="http://xination.pixnet.net/blog/post/22513141">page 204 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22513141
+MP3fn:page204
+pCnt =  0
+#####################
+
+src:49 <a href="http://xination.pixnet.net/blog/post/22513139">page 203 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22513139
+MP3fn:page203
+pCnt =  0
+#####################
+
+src:50 <a href="http://xination.pixnet.net/blog/post/22513138">page 202 --  滿有趣的一頁 list16</a>
+
+tgt:http://xination.pixnet.net/blog/post/22513138
+MP3fn:page202
+pCnt =  0
+#####################
+
+src:51 <a href="http://xination.pixnet.net/blog/post/22504021">page 201</a>
+
+tgt:http://xination.pixnet.net/blog/post/22504021
+MP3fn:page201
+pCnt =  0
+#####################
+
+src:52 <a href="http://xination.pixnet.net/blog/post/22504020">page 200 --  呼呼慶祝一下</a>
+
+tgt:http://xination.pixnet.net/blog/post/22504020
+MP3fn:page200
+pCnt =  0
+#####################
+
+src:53 <a href="http://xination.pixnet.net/blog/post/22504019">page 199 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22504019
+MP3fn:page199
+pCnt =  0
+#####################
+
+src:54 <a href="http://xination.pixnet.net/blog/post/22504018">page 198 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22504018
+MP3fn:page198
+pCnt =  0
+#####################
+
+src:55 <a href="http://xination.pixnet.net/blog/post/22504010">page 197 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22504010
+MP3fn:page197
+pCnt =  0
+#####################
+
+src:56 <a href="http://xination.pixnet.net/blog/post/22500035">page 196 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22500035
+MP3fn:page196
+pCnt =  0
+#####################
+
+src:57 <a href="http://xination.pixnet.net/blog/post/22486759">page 195</a>
+
+tgt:http://xination.pixnet.net/blog/post/22486759
+MP3fn:page195
+pCnt =  0
+#####################
+
+src:58 <a href="http://xination.pixnet.net/blog/post/22486751">page 194 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22486751
+MP3fn:page194
+pCnt =  0
+#####################
+
+src:59 <a href="http://xination.pixnet.net/blog/post/22486742">page 193 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22486742
+MP3fn:page193
+pCnt =  0
+#####################
+
+src:60 <a href="http://xination.pixnet.net/blog/post/22481247">page 192 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22481247
+MP3fn:page192
+pCnt =  0
+#####################
+
+src:61 <a href="http://xination.pixnet.net/blog/post/22481242">page 191 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22481242
+MP3fn:page191
+pCnt =  0
+#####################
+
+src:62 <a href="http://xination.pixnet.net/blog/post/22481237">page 190 -- list15</a>
+
+tgt:http://xination.pixnet.net/blog/post/22481237
+MP3fn:page190
+pCnt =  0
+#####################
+
+src:63 <a href="http://xination.pixnet.net/blog/post/22476863">page 189 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22476863
+MP3fn:page189
+pCnt =  0
+#####################
+
+src:64 <a href="http://xination.pixnet.net/blog/post/22476856">page 188 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22476856
+MP3fn:page188
+pCnt =  0
+#####################
+
+src:65 <a href="http://xination.pixnet.net/blog/post/22476847">page 187 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22476847
+MP3fn:page187
+pCnt =  0
+#####################
+
+src:66 <a href="http://xination.pixnet.net/blog/post/22472607">page 186 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22472607
+MP3fn:page186
+pCnt =  0
+#####################
+
+src:67 <a href="http://xination.pixnet.net/blog/post/22472602">page 185 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22472602
+MP3fn:page185
+pCnt =  0
+#####################
+
+src:68 <a href="http://xination.pixnet.net/blog/post/22472597">page 184 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22472597
+MP3fn:page184
+pCnt =  0
+#####################
+
+src:69 <a href="http://xination.pixnet.net/blog/post/22466492">page 183</a>
+
+tgt:http://xination.pixnet.net/blog/post/22466492
+MP3fn:page183
+pCnt =  0
+#####################
+
+src:70 <a href="http://xination.pixnet.net/blog/post/22466452">page 182 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22466452
+MP3fn:page182
+pCnt =  0
+#####################
+
+src:71 <a href="http://xination.pixnet.net/blog/post/22466397">page 181 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22466397
+MP3fn:page181
+pCnt =  0
+#####################
+
+src:22 <a href="http://xination.pixnet.net/blog/post/22439449">page 180 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22439449
+MP3fn:page180
+pCnt =  0
+#####################
+
+src:23 <a href="http://xination.pixnet.net/blog/post/22439422">page 179 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22439422
+MP3fn:page179
+pCnt =  0
+#####################
+
+src:24 <a href="http://xination.pixnet.net/blog/post/22439407">page 178 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22439407
+MP3fn:page178
+pCnt =  0
+#####################
+
+src:25 <a href="http://xination.pixnet.net/blog/post/22439391">page 177 -- list 14</a>
+
+tgt:http://xination.pixnet.net/blog/post/22439391
+MP3fn:page177
+pCnt =  0
+#####################
+
+src:26 <a href="http://xination.pixnet.net/blog/post/22348371">page 176 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22348371
+MP3fn:page176
+pCnt =  0
+#####################
+
+src:27 <a href="http://xination.pixnet.net/blog/post/22348366">page 175 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22348366
+MP3fn:page175
+pCnt =  0
+#####################
+
+src:28 <a href="http://xination.pixnet.net/blog/post/22348348">page 174 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22348348
+MP3fn:page174
+pCnt =  0
+#####################
+
+src:29 <a href="http://xination.pixnet.net/blog/post/22348336">page 173 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22348336
+MP3fn:page173
+pCnt =  0
+#####################
+
+src:30 <a href="http://xination.pixnet.net/blog/post/22348308">page 172 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22348308
+MP3fn:page172
+pCnt =  0
+#####################
+
+src:31 <a href="http://xination.pixnet.net/blog/post/22348285">page 171 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22348285
+MP3fn:page171
+pCnt =  0
+#####################
+
+src:32 <a href="http://xination.pixnet.net/blog/post/22326981">page 170 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22326981
+MP3fn:page170
+pCnt =  0
+#####################
+
+src:33 <a href="http://xination.pixnet.net/blog/post/22326968">page 169 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22326968
+MP3fn:page169
+pCnt =  0
+#####################
+
+src:34 <a href="http://xination.pixnet.net/blog/post/22326945">page 168 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22326945
+MP3fn:page168
+pCnt =  0
+#####################
+
+src:35 <a href="http://xination.pixnet.net/blog/post/22326929">page 167 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22326929
+MP3fn:page167
+pCnt =  0
+#####################
+
+src:36 <a href="http://xination.pixnet.net/blog/post/22326912">page 166 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22326912
+MP3fn:page166
+pCnt =  0
+#####################
+
+src:37 <a href="http://xination.pixnet.net/blog/post/22326901">page 165 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22326901
+MP3fn:page165
+pCnt =  0
+#####################
+
+src:38 <a href="http://xination.pixnet.net/blog/post/22326883">page 164 -- list 13</a>
+
+tgt:http://xination.pixnet.net/blog/post/22326883
+MP3fn:page164
+pCnt =  0
+#####################
+
+src:39 <a href="http://xination.pixnet.net/blog/post/22309298">page 163 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22309298
+MP3fn:page163
+pCnt =  0
+#####################
+
+src:40 <a href="http://xination.pixnet.net/blog/post/22309280">page 162 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22309280
+MP3fn:page162
+pCnt =  0
+#####################
+
+src:41 <a href="http://xination.pixnet.net/blog/post/22309253">page 161 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22309253
+MP3fn:page161
+pCnt =  0
+#####################
+
+src:42 <a href="http://xination.pixnet.net/blog/post/22309230">page 160</a>
+
+tgt:http://xination.pixnet.net/blog/post/22309230
+MP3fn:page160
+pCnt =  0
+#####################
+
+src:43 <a href="http://xination.pixnet.net/blog/post/22309200">page 159 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22309200
+MP3fn:page159
+pCnt =  0
+#####################
+
+src:44 <a href="http://xination.pixnet.net/blog/post/22309149">page 158 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22309149
+MP3fn:page158
+pCnt =  0
+#####################
+
+src:45 <a href="http://xination.pixnet.net/blog/post/22309147">page 157 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22309147
+MP3fn:page157
+pCnt =  0
+#####################
+
+src:46 <a href="http://xination.pixnet.net/blog/post/22309124">page 156 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22309124
+MP3fn:page156
+pCnt =  0
+#####################
+
+src:47 <a href="http://xination.pixnet.net/blog/post/22309104">page 155 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22309104
+MP3fn:page155
+pCnt =  0
+#####################
+
+src:48 <a href="http://xination.pixnet.net/blog/post/22309071">page 154 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22309071
+MP3fn:page154
+pCnt =  0
+#####################
+
+src:49 <a href="http://xination.pixnet.net/blog/post/22309026">page 153 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22309026
+MP3fn:page153
+pCnt =  0
+#####################
+
+src:50 <a href="http://xination.pixnet.net/blog/post/22309000">page 152 -- list 12</a>
+
+tgt:http://xination.pixnet.net/blog/post/22309000
+MP3fn:page152
+pCnt =  0
+#####################
+
+src:51 <a href="http://xination.pixnet.net/blog/post/22269932">page 151</a>
+
+tgt:http://xination.pixnet.net/blog/post/22269932
+MP3fn:page151
+pCnt =  0
+#####################
+
+src:52 <a href="http://xination.pixnet.net/blog/post/22269921">page 150 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22269921
+MP3fn:page150
+pCnt =  0
+#####################
+
+src:53 <a href="http://xination.pixnet.net/blog/post/22269898">page 149 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22269898
+MP3fn:page149
+pCnt =  0
+#####################
+
+src:54 <a href="http://xination.pixnet.net/blog/post/22269870">page 148</a>
+
+tgt:http://xination.pixnet.net/blog/post/22269870
+MP3fn:page148
+pCnt =  0
+#####################
+
+src:55 <a href="http://xination.pixnet.net/blog/post/22269842">page 147 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22269842
+MP3fn:page147
+pCnt =  0
+#####################
+
+src:56 <a href="http://xination.pixnet.net/blog/post/22269806">page 146 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22269806
+MP3fn:page146
+pCnt =  0
+#####################
+
+src:57 <a href="http://xination.pixnet.net/blog/post/22269762">page 145 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22269762
+MP3fn:page145
+pCnt =  0
+#####################
+
+src:58 <a href="http://xination.pixnet.net/blog/post/22269727">page 144 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22269727
+MP3fn:page144
+pCnt =  0
+#####################
+
+src:59 <a href="http://xination.pixnet.net/blog/post/22269699">page 143 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22269699
+MP3fn:page143
+pCnt =  0
+#####################
+
+src:60 <a href="http://xination.pixnet.net/blog/post/22269671">page 142 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22269671
+MP3fn:page142
+pCnt =  0
+#####################
+
+src:61 <a href="http://xination.pixnet.net/blog/post/22269650">page 141 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22269650
+MP3fn:page141
+pCnt =  0
+#####################
+
+src:62 <a href="http://xination.pixnet.net/blog/post/22269620">page 140 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22269620
+MP3fn:page140
+pCnt =  0
+#####################
+
+src:63 <a href="http://xination.pixnet.net/blog/post/22269594">page 139 --  有點難唷 list 11</a>
+
+tgt:http://xination.pixnet.net/blog/post/22269594
+MP3fn:page139
+pCnt =  0
+#####################
+
+src:64 <a href="http://xination.pixnet.net/blog/post/22251679">page 138</a>
+
+tgt:http://xination.pixnet.net/blog/post/22251679
+MP3fn:page138
+pCnt =  0
+#####################
+
+src:65 <a href="http://xination.pixnet.net/blog/post/22251673">page 137</a>
+
+tgt:http://xination.pixnet.net/blog/post/22251673
+MP3fn:page137
+pCnt =  0
+#####################
+
+src:66 <a href="http://xination.pixnet.net/blog/post/22251664">page 136</a>
+
+tgt:http://xination.pixnet.net/blog/post/22251664
+MP3fn:page136
+pCnt =  0
+#####################
+
+src:67 <a href="http://xination.pixnet.net/blog/post/22251652">page 135 -這 頁字很多</a>
+
+tgt:http://xination.pixnet.net/blog/post/22251652
+MP3fn:page135
+pCnt =  0
+#####################
+
+src:68 <a href="http://xination.pixnet.net/blog/post/22251638">page 134</a>
+
+tgt:http://xination.pixnet.net/blog/post/22251638
+MP3fn:page134
+pCnt =  0
+#####################
+
+src:69 <a href="http://xination.pixnet.net/blog/post/22233497">page 133</a>
+
+tgt:http://xination.pixnet.net/blog/post/22233497
+MP3fn:page133
+pCnt =  0
+#####################
+
+src:70 <a href="http://xination.pixnet.net/blog/post/22233479">page 132</a>
+
+tgt:http://xination.pixnet.net/blog/post/22233479
+MP3fn:page132
+pCnt =  1
+#####################
+
+src:71 <a href="http://xination.pixnet.net/blog/post/22233466">page 131</a>
+
+tgt:http://xination.pixnet.net/blog/post/22233466
+MP3fn:page131
+pCnt =  0
+#####################
+
+src:22 <a href="http://xination.pixnet.net/blog/post/22233450">page 130 --  字首 de   dis</a>
+
+tgt:http://xination.pixnet.net/blog/post/22233450
+MP3fn:page130
+pCnt =  0
+#####################
+
+src:23 <a href="http://xination.pixnet.net/blog/post/22233440">page 129</a>
+
+tgt:http://xination.pixnet.net/blog/post/22233440
+MP3fn:page129
+pCnt =  0
+#####################
+
+src:24 <a href="http://xination.pixnet.net/blog/post/22233003">page 128 --  這頁圖滿多的</a>
+
+tgt:http://xination.pixnet.net/blog/post/22233003
+MP3fn:page128
+pCnt =  0
+#####################
+
+src:25 <a href="http://xination.pixnet.net/blog/post/22232981">page 127</a>
+
+tgt:http://xination.pixnet.net/blog/post/22232981
+MP3fn:page127
+pCnt =  0
+#####################
+
+src:26 <a href="http://xination.pixnet.net/blog/post/22232972">page 126 -- list10</a>
+
+tgt:http://xination.pixnet.net/blog/post/22232972
+MP3fn:page126
+pCnt =  0
+#####################
+
+src:27 <a href="http://xination.pixnet.net/blog/post/22217835">page 125</a>
+
+tgt:http://xination.pixnet.net/blog/post/22217835
+MP3fn:page125
+pCnt =  0
+#####################
+
+src:28 <a href="http://xination.pixnet.net/blog/post/22217827">page 124</a>
+
+tgt:http://xination.pixnet.net/blog/post/22217827
+MP3fn:page124
+pCnt =  0
+#####################
+
+src:29 <a href="http://xination.pixnet.net/blog/post/22217816">page 123</a>
+
+tgt:http://xination.pixnet.net/blog/post/22217816
+MP3fn:page123
+pCnt =  0
+#####################
+
+src:30 <a href="http://xination.pixnet.net/blog/post/22217000">page 122</a>
+
+tgt:http://xination.pixnet.net/blog/post/22217000
+MP3fn:page122
+pCnt =  0
+#####################
+
+src:31 <a href="http://xination.pixnet.net/blog/post/22216979">page 121</a>
+
+tgt:http://xination.pixnet.net/blog/post/22216979
+MP3fn:page121
+pCnt =  0
+#####################
+
+src:32 <a href="http://xination.pixnet.net/blog/post/22216951">page 120</a>
+
+tgt:http://xination.pixnet.net/blog/post/22216951
+MP3fn:page120
+pCnt =  0
+#####################
+
+src:33 <a href="http://xination.pixnet.net/blog/post/22216933">page 119</a>
+
+tgt:http://xination.pixnet.net/blog/post/22216933
+MP3fn:page119
+pCnt =  0
+#####################
+
+src:34 <a href="http://xination.pixnet.net/blog/post/22216923">page 118 </a>
+
+tgt:http://xination.pixnet.net/blog/post/22216923
+MP3fn:page118
+pCnt =  0
+#####################
+
+src:35 <a href="http://xination.pixnet.net/blog/post/22216892">page 117</a>
+
+tgt:http://xination.pixnet.net/blog/post/22216892
+MP3fn:page117
+pCnt =  0
+#####################
+
+src:36 <a href="http://xination.pixnet.net/blog/post/22211843">page 116</a>
+
+tgt:http://xination.pixnet.net/blog/post/22211843
+MP3fn:page116
+pCnt =  0
+#####################
+
+src:37 <a href="http://xination.pixnet.net/blog/post/22211741">page 115</a>
+
+tgt:http://xination.pixnet.net/blog/post/22211741
+MP3fn:page115
+pCnt =  0
+#####################
+
+src:38 <a href="http://xination.pixnet.net/blog/post/22206853">page 114</a>
+
+tgt:http://xination.pixnet.net/blog/post/22206853
+MP3fn:page114
+pCnt =  0
+#####################
+
+src:39 <a href="http://xination.pixnet.net/blog/post/22206824">page 113</a>
+
+tgt:http://xination.pixnet.net/blog/post/22206824
+MP3fn:page113
+pCnt =  0
+#####################
+
+src:40 <a href="http://xination.pixnet.net/blog/post/22206815">page 112</a>
+
+tgt:http://xination.pixnet.net/blog/post/22206815
+MP3fn:page112
+pCnt =  0
+#####################
+
+src:41 <a href="http://xination.pixnet.net/blog/post/22202269">page 111 -- list9</a>
+
+tgt:http://xination.pixnet.net/blog/post/22202269
+MP3fn:page111
+pCnt =  0
+#####################
+
+src:42 <a href="http://xination.pixnet.net/blog/post/22202263">page 110</a>
+
+tgt:http://xination.pixnet.net/blog/post/22202263
+MP3fn:page110
+pCnt =  0
+#####################
+
+src:43 <a href="http://xination.pixnet.net/blog/post/22202211">page 109</a>
+
+tgt:http://xination.pixnet.net/blog/post/22202211
+MP3fn:page109
+pCnt =  0
+#####################
+
+src:44 <a href="http://xination.pixnet.net/blog/post/22197913">page 108</a>
+
+tgt:http://xination.pixnet.net/blog/post/22197913
+MP3fn:page108
+pCnt =  0
+#####################
+
+src:45 <a href="http://xination.pixnet.net/blog/post/22197889">page 107</a>
+
+tgt:http://xination.pixnet.net/blog/post/22197889
+MP3fn:page107
+pCnt =  0
+#####################
+
+src:46 <a href="http://xination.pixnet.net/blog/post/22197856">page 106</a>
+
+tgt:http://xination.pixnet.net/blog/post/22197856
+MP3fn:page106
+pCnt =  0
+#####################
+
+src:47 <a href="http://xination.pixnet.net/blog/post/22192817">page 105</a>
+
+tgt:http://xination.pixnet.net/blog/post/22192817
+MP3fn:page105
+pCnt =  0
+#####################
+
+src:48 <a href="http://xination.pixnet.net/blog/post/22192805">page 104</a>
+
+tgt:http://xination.pixnet.net/blog/post/22192805
+MP3fn:page104
+pCnt =  0
+#####################
+
+src:49 <a href="http://xination.pixnet.net/blog/post/22192791">page 103</a>
+
+tgt:http://xination.pixnet.net/blog/post/22192791
+MP3fn:page103
+pCnt =  0
+#####################
+
+src:50 <a href="http://xination.pixnet.net/blog/post/22189398">page 102</a>
+
+tgt:http://xination.pixnet.net/blog/post/22189398
+MP3fn:page102
+pCnt =  0
+#####################
+
+src:51 <a href="http://xination.pixnet.net/blog/post/22187819">page 101</a>
+
+tgt:http://xination.pixnet.net/blog/post/22187819
+MP3fn:page101
+pCnt =  0
+#####################
+
+src:52 <a href="http://xination.pixnet.net/blog/post/22184792">page 100 --  哇100了</a>
+
+tgt:http://xination.pixnet.net/blog/post/22184792
+MP3fn:page100
+pCnt =  0
+#####################
+
+src:53 <a href="http://xination.pixnet.net/blog/post/22179477">page 99</a>
+
+tgt:http://xination.pixnet.net/blog/post/22179477
+MP3fn:page099
+pCnt =  0
+#####################
+
+src:54 <a href="http://xination.pixnet.net/blog/post/22178856">page 98 -- 這頁字有點< /a>
+
+tgt:http://xination.pixnet.net/blog/post/22178856
+MP3fn:page098
+pCnt =  0
+#####################
+
+src:55 <a href="http://xination.pixnet.net/blog/post/22178800">page 97</a>
+
+tgt:http://xination.pixnet.net/blog/post/22178800
+MP3fn:page097
+pCnt =  0
+#####################
+
+src:56 <a href="http://xination.pixnet.net/blog/post/22176342">page 96 -- list 8</a>
+
+tgt:http://xination.pixnet.net/blog/post/22176342
+MP3fn:page096
+pCnt =  0
+#####################
+
+src:57 <a href="http://xination.pixnet.net/blog/post/22176148">page 95</a>
+
+tgt:http://xination.pixnet.net/blog/post/22176148
+MP3fn:page095
+pCnt =  0
+#####################
+
+src:58 <a href="http://xination.pixnet.net/blog/post/22174504">page 94</a>
+
+tgt:http://xination.pixnet.net/blog/post/22174504
+MP3fn:page094
+pCnt =  0
+#####################
+
+src:59 <a href="http://xination.pixnet.net/blog/post/22174457">page 93</a>
+
+tgt:http://xination.pixnet.net/blog/post/22174457
+MP3fn:page093
+pCnt =  0
+#####################
+
+src:60 <a href="http://xination.pixnet.net/blog/post/22171630">page 92</a>
+
+tgt:http://xination.pixnet.net/blog/post/22171630
+MP3fn:page092
+pCnt =  0
+#####################
+
+src:61 <a href="http://xination.pixnet.net/blog/post/22171517">page 91</a>
+
+tgt:http://xination.pixnet.net/blog/post/22171517
+MP3fn:page091
+pCnt =  0
+#####################
+
+src:62 <a href="http://xination.pixnet.net/blog/post/22171423">page 90 -- 動物系列</a>
+
+tgt:http://xination.pixnet.net/blog/post/22171423
+MP3fn:page090
+pCnt =  0
+#####################
+
+src:63 <a href="http://xination.pixnet.net/blog/post/22167048">page 89</a>
+
+tgt:http://xination.pixnet.net/blog/post/22167048
+MP3fn:page089
+pCnt =  0
+#####################
+
+src:64 <a href="http://xination.pixnet.net/blog/post/22166674">page 88</a>
+
+tgt:http://xination.pixnet.net/blog/post/22166674
+MP3fn:page088
+pCnt =  0
+#####################
+
+src:65 <a href="http://xination.pixnet.net/blog/post/22166529">page 87</a>
+
+tgt:http://xination.pixnet.net/blog/post/22166529
+MP3fn:page087
+pCnt =  0
+#####################
+
+src:66 <a href="http://xination.pixnet.net/blog/post/22161625">page 86</a>
+
+tgt:http://xination.pixnet.net/blog/post/22161625
+MP3fn:page086
+pCnt =  0
+#####################
+
+src:67 <a href="http://xination.pixnet.net/blog/post/22161610">page 85</a>
+
+tgt:http://xination.pixnet.net/blog/post/22161610
+MP3fn:page085
+pCnt =  0
+#####################
+
+src:68 <a href="http://xination.pixnet.net/blog/post/22161039">page 84</a>
+
+tgt:http://xination.pixnet.net/blog/post/22161039
+MP3fn:page084
+pCnt =  0
+#####################
+
+src:69 <a href="http://xination.pixnet.net/blog/post/22153683">page 83 -- list 7</a>
+
+tgt:http://xination.pixnet.net/blog/post/22153683
+MP3fn:page083
+pCnt =  0
+#####################
+
+src:70 <a href="http://xination.pixnet.net/blog/post/22153617">page 82</a>
+
+tgt:http://xination.pixnet.net/blog/post/22153617
+MP3fn:page082
+pCnt =  0
+#####################
+
+src:71 <a href="http://xination.pixnet.net/blog/post/22153571">page 81</a>
+
+tgt:http://xination.pixnet.net/blog/post/22153571
+MP3fn:page081
+pCnt =  0
+#####################
+
+src:22 <a href="http://xination.pixnet.net/blog/post/22153386">page 80</a>
+
+tgt:http://xination.pixnet.net/blog/post/22153386
+MP3fn:page080
+pCnt =  0
+#####################
+
+src:23 <a href="http://xination.pixnet.net/blog/post/22149306">page 79</a>
+
+tgt:http://xination.pixnet.net/blog/post/22149306
+MP3fn:page079
+pCnt =  0
+#####################
+
+src:24 <a href="http://xination.pixnet.net/blog/post/22149297">page 78</a>
+
+tgt:http://xination.pixnet.net/blog/post/22149297
+MP3fn:page078
+pCnt =  0
+#####################
+
+src:25 <a href="http://xination.pixnet.net/blog/post/22149245">page 77</a>
+
+tgt:http://xination.pixnet.net/blog/post/22149245
+MP3fn:page077
+pCnt =  0
+#####################
+
+src:26 <a href="http://xination.pixnet.net/blog/post/22145757">page 76</a>
+
+tgt:http://xination.pixnet.net/blog/post/22145757
+MP3fn:page076
+pCnt =  0
+#####################
+
+src:27 <a href="http://xination.pixnet.net/blog/post/22145487">page 75</a>
+
+tgt:http://xination.pixnet.net/blog/post/22145487
+MP3fn:page075
+pCnt =  0
+#####################
+
+src:28 <a href="http://xination.pixnet.net/blog/post/22145485">page 74</a>
+
+tgt:http://xination.pixnet.net/blog/post/22145485
+MP3fn:page074
+pCnt =  0
+#####################
+
+src:29 <a href="http://xination.pixnet.net/blog/post/22143141">page 73 -- 這頁很棒</a>
+
+tgt:http://xination.pixnet.net/blog/post/22143141
+MP3fn:page073
+pCnt =  0
+#####################
+
+src:30 <a href="http://xination.pixnet.net/blog/post/22143341">page 72</a>
+
+tgt:http://xination.pixnet.net/blog/post/22143341
+MP3fn:page072
+pCnt =  0
+#####################
+
+src:31 <a href="http://xination.pixnet.net/blog/post/22141276">page 71</a>
+
+tgt:http://xination.pixnet.net/blog/post/22141276
+MP3fn:page071
+pCnt =  0
+#####################
+
+src:32 <a href="http://xination.pixnet.net/blog/post/22137346">page 70 -- list 6</a>
+
+tgt:http://xination.pixnet.net/blog/post/22137346
+MP3fn:page070
+pCnt =  0
+#####################
+
+src:33 <a href="http://xination.pixnet.net/blog/post/22137188">page 69</a>
+
+tgt:http://xination.pixnet.net/blog/post/22137188
+MP3fn:page069
+pCnt =  0
+#####################
+
+src:34 <a href="http://xination.pixnet.net/blog/post/22136934">page 68</a>
+
+tgt:http://xination.pixnet.net/blog/post/22136934
+MP3fn:page068
+pCnt =  0
+#####################
+
+src:35 <a href="http://xination.pixnet.net/blog/post/22136910">page 67</a>
+
+tgt:http://xination.pixnet.net/blog/post/22136910
+MP3fn:page067
+pCnt =  0
+#####################
+
+src:36 <a href="http://xination.pixnet.net/blog/post/22132076">page 66</a>
+
+tgt:http://xination.pixnet.net/blog/post/22132076
+MP3fn:page066
+pCnt =  0
+#####################
+
+src:37 <a href="http://xination.pixnet.net/blog/post/22131913">page 65</a>
+
+tgt:http://xination.pixnet.net/blog/post/22131913
+MP3fn:page065
+pCnt =  0
+#####################
+
+src:38 <a href="http://xination.pixnet.net/blog/post/22131871">page 64</a>
+
+tgt:http://xination.pixnet.net/blog/post/22131871
+MP3fn:page064
+pCnt =  0
+#####################
+
+src:39 <a href="http://xination.pixnet.net/blog/post/22126822">page 63</a>
+
+tgt:http://xination.pixnet.net/blog/post/22126822
+MP3fn:page063
+pCnt =  0
+#####################
+
+src:40 <a href="http://xination.pixnet.net/blog/post/22126723">page 62</a>
+
+tgt:http://xination.pixnet.net/blog/post/22126723
+MP3fn:page062
+pCnt =  0
+#####################
+
+src:41 <a href="http://xination.pixnet.net/blog/post/22126667">page 61</a>
+
+tgt:http://xination.pixnet.net/blog/post/22126667
+MP3fn:page061
+pCnt =  0
+#####################
+
+src:42 <a href="http://xination.pixnet.net/blog/post/22123002">page 60</a>
+
+tgt:http://xination.pixnet.net/blog/post/22123002
+MP3fn:page060
+pCnt =  0
+#####################
+
+src:43 <a href="http://xination.pixnet.net/blog/post/22122896">page 59</a>
+
+tgt:http://xination.pixnet.net/blog/post/22122896
+MP3fn:page059
+pCnt =  0
+#####################
+
+src:44 <a href="http://xination.pixnet.net/blog/post/22123864">page 58</a>
+
+tgt:http://xination.pixnet.net/blog/post/22123864
+MP3fn:page058
+pCnt =  0
+#####################
+
+src:45 <a href="http://xination.pixnet.net/blog/post/22117366">page 57 -- list5</a>
+
+tgt:http://xination.pixnet.net/blog/post/22117366
+MP3fn:page057
+pCnt =  0
+#####################
+
+src:46 <a href="http://xination.pixnet.net/blog/post/22117290">page 56</a>
+
+tgt:http://xination.pixnet.net/blog/post/22117290
+MP3fn:page056
+pCnt =  0
+#####################
+
+src:47 <a href="http://xination.pixnet.net/blog/post/22117139">page 55</a>
+
+tgt:http://xination.pixnet.net/blog/post/22117139
+MP3fn:page055
+pCnt =  0
+#####################
+
+src:48 <a href="http://xination.pixnet.net/blog/post/22112590">page 54</a>
+
+tgt:http://xination.pixnet.net/blog/post/22112590
+MP3fn:page054
+pCnt =  0
+#####################
+
+src:49 <a href="http://xination.pixnet.net/blog/post/22112534">page 53</a>
+
+tgt:http://xination.pixnet.net/blog/post/22112534
+MP3fn:page053
+pCnt =  0
+#####################
+
+src:50 <a href="http://xination.pixnet.net/blog/post/22112481">page 52</a>
+
+tgt:http://xination.pixnet.net/blog/post/22112481
+MP3fn:page052
+pCnt =  0
+#####################
+
+src:51 <a href="http://xination.pixnet.net/blog/post/22106589">page 51</a>
+
+tgt:http://xination.pixnet.net/blog/post/22106589
+MP3fn:page051
+pCnt =  0
+#####################
+
+src:52 <a href="http://xination.pixnet.net/blog/post/22106578">page 50</a>
+
+tgt:http://xination.pixnet.net/blog/post/22106578
+MP3fn:page050
+pCnt =  0
+#####################
+
+src:53 <a href="http://xination.pixnet.net/blog/post/22106540">page 49</a>
+
+tgt:http://xination.pixnet.net/blog/post/22106540
+MP3fn:page049
+pCnt =  0
+#####################
+
+src:54 <a href="http://xination.pixnet.net/blog/post/22101353">page 48</a>
+
+tgt:http://xination.pixnet.net/blog/post/22101353
+MP3fn:page048
+pCnt =  0
+#####################
+
+src:55 <a href="http://xination.pixnet.net/blog/post/22101343">page 47</a>
+
+tgt:http://xination.pixnet.net/blog/post/22101343
+MP3fn:page047
+pCnt =  0
+#####################
+
+src:56 <a href="http://xination.pixnet.net/blog/post/22101328">page 46</a>
+
+tgt:http://xination.pixnet.net/blog/post/22101328
+MP3fn:page046
+pCnt =  0
+#####################
+
+src:57 <a href="http://xination.pixnet.net/blog/post/22097933">page 45</a>
+
+tgt:http://xination.pixnet.net/blog/post/22097933
+MP3fn:page045
+pCnt =  0
+#####################
+
+src:58 <a href="http://xination.pixnet.net/blog/post/22096809">page 44 -- list4</a>
+
+tgt:http://xination.pixnet.net/blog/post/22096809
+MP3fn:page044
+pCnt =  0
+#####################
+
+src:59 <a href="http://xination.pixnet.net/blog/post/22096794">page 42 &amp; 43</a>
+
+tgt:http://xination.pixnet.net/blog/post/22096794
+MP3fn:page042
+pCnt =  0
+#####################
+
+src:60 <a href="http://xination.pixnet.net/blog/post/22091399">page 41</a>
+
+tgt:http://xination.pixnet.net/blog/post/22091399
+MP3fn:page041
+pCnt =  0
+#####################
+
+src:61 <a href="http://xination.pixnet.net/blog/post/22091377">page 40</a>
+
+tgt:http://xination.pixnet.net/blog/post/22091377
+MP3fn:page040
+pCnt =  0
+#####################
+
+src:62 <a href="http://xination.pixnet.net/blog/post/22091849">page 39</a>
+
+tgt:http://xination.pixnet.net/blog/post/22091849
+MP3fn:page039
+pCnt =  0
+#####################
+
+src:63 <a href="http://xination.pixnet.net/blog/post/22084696">page 38</a>
+
+tgt:http://xination.pixnet.net/blog/post/22084696
+MP3fn:page038
+pCnt =  0
+#####################
+
+src:64 <a href="http://xination.pixnet.net/blog/post/22084690">page 37</a>
+
+tgt:http://xination.pixnet.net/blog/post/22084690
+MP3fn:page037
+pCnt =  0
+#####################
+
+src:65 <a href="http://xination.pixnet.net/blog/post/22084682">page 36</a>
+
+tgt:http://xination.pixnet.net/blog/post/22084682
+MP3fn:page036
+pCnt =  0
+#####################
+
+src:66 <a href="http://xination.pixnet.net/blog/post/22078994">page 35</a>
+
+tgt:http://xination.pixnet.net/blog/post/22078994
+MP3fn:page035
+pCnt =  0
+#####################
+MP3fn:page034
+pCnt =  0
+#####################
+MP3fn:page033
+pCnt =  0
+#####################
+MP3fn:page032
+pCnt =  0
+#####################
+MP3fn:page031
+pCnt =  0
+#####################
+MP3fn:page030
+pCnt =  0
+#####################
+MP3fn:page029
+pCnt =  0
+#####################
+MP3fn:page028
+pCnt =  0
+#####################
+MP3fn:page027
+pCnt =  0
+#####################
+MP3fn:page026
+pCnt =  0
+#####################
+MP3fn:page025
+pCnt =  0
+#####################
+MP3fn:page024
+pCnt =  0
+#####################
+MP3fn:page023
+pCnt =  0
+#####################
+MP3fn:page022
+pCnt =  0
+#####################
+MP3fn:page021
+pCnt =  0
+#####################
+MP3fn:page020
+pCnt =  0
+#####################
+MP3fn:page019
+pCnt =  0
+#####################
+MP3fn:page018
+pCnt =  0
+#####################
+MP3fn:page017
+pCnt =  0
+#####################
+MP3fn:page016
+pCnt =  1
+#####################
+MP3fn:page015
+pCnt =  0
+#####################
+MP3fn:page014
+pCnt =  0
+#####################
+MP3fn:page013
+pCnt =  0
+#####################
+MP3fn:page012
+pCnt =  0
+#####################
+MP3fn:page011
+pCnt =  0
+#####################
+MP3fn:page010
+pCnt =  0
+#####################
+MP3fn:page009
+pCnt =  0
+#####################
+MP3fn:page008
+pCnt =  0
+#####################
+MP3fn:page007
+pCnt =  0
+#####################
+MP3fn:page006
+pCnt =  0
+#####################
+MP3fn:page005
+pCnt =  0
+#####################
+MP3fn:page004
+pCnt =  0
+#####################
+MP3fn:page003
+pCnt =  0
+#####################
+MP3fn:page002
+pCnt =  0
+#####################
+MP3fn:page001
+pCnt =  0
+#####################
+
+src:51 <a href="http://xination.pixnet.net/blog/post/22017407">紅寶教學說明 頁</a>
+
+tgt:http://xination.pixnet.net/blog/post/22017407">紅寶教學說明 頁</a>
