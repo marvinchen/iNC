@@ -1,14 +1,35 @@
 # -*- coding: utf-8 -*-
 from bs4 import BeautifulSoup
+from codecs import encode, decode
 import urllib.request
 import jieba
 import jieba.posseg as pseg
 import os
 import sys
+import nltk
+from nltk import word_tokenize, pos_tag
+from nltk.corpus import wordnet as wn
 import sklearn
 from sklearn import feature_extraction
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import CountVectorizer
+
+filteredList = ['CC', 'CD', 'DT', 'IN', 'JJ', 'JJR','JJS', 'LS', 'MD',
+                'PDT', 'POS', 'PRP', 'RB', 'RBR', 'RBS', 'RP', 'TO',
+                'UH', 'WDT', 'WP', 'WRB']
+
+def NLTKExTag(strWord):
+    #print("NLTKExTag:strWord =" + str(strWord))
+    tag = nltk.pos_tag(word_tokenize(strWord))
+    if tag[0][1] in filteredList:
+        #print("NLTKExTag:T "+strWord)
+        return True
+    #print("NLTKExTag:F "+strWord)
+    return False
+
+
+
+
 
 def procHTTPRequest():
     urlList = [
@@ -35,7 +56,8 @@ def procHTTPRequest():
     for link in soup.find_all('a'):
         print(link.get('href'))
 
-class urlContent:
+        
+class UrlContent:
     '''
     This class resprents a scraped content via a URL. A set of urlContent objects could represent a website.
 urlContent has the following functionalities:
@@ -138,8 +160,37 @@ urlContent has the following functionalities:
         #print(self.dictWebsites)
         
 
-class IsraelNewsCrawler:
+class AppURLopener(urllib.request.FancyURLopener):
+    version = "Mozilla/5.0"
+
+class BaseURLopener(urllib.request.FancyURLopener):
+    version = "Mozilla/5.0"
+
     def __init__(self):
+        urllib.request.FancyURLopener.__init__(self)
+
+    
+    
+class MyAppURLopener(BaseURLopener):
+    def __init__(self):
+        BaseURLopener.__init__(self)
+        self._headers = {'Accept':'text/css,*/*;q=0.1',
+                         'Accept-Charset':'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
+                         'Accept-Encoding':'gzip,deflate,sdch',
+                         'Accept-Language':'en-US,en;q=0.8',
+                         'User-Agent':'Mozilla/5 (Solaris 10) Gecko'}
+
+        
+# Class Name: ZippedContentCrawler(AppURLopener)
+class ZippedContentCrawler(MyAppURLopener):
+    def __init__(self):
+        super().__init__(self)
+        
+
+class IsraelNewsCrawler(MyAppURLopener):
+    def __init__(self):
+        MyAppURLopener.__init__(self)
+        
         self.description = "This is a crawler that collects the critical current news about Israel."
         self.dictWebsites = {}
         self.numSites = len(self.dictWebsites)
@@ -158,7 +209,6 @@ class IsraelNewsCrawler:
         if (url not in values):
             key = len(self.dictWebsites)
             self.dictWebsites[key] = url
-
 
     def numSites(self):
         return self.numSites
@@ -185,11 +235,18 @@ class IsraelNewsCrawler:
         return strConverted
 
     def testPrintDictWebsites(self):
+        lstTarget = []
         keys = self.dictWebsites.keys()
         numEntries = len(self.dictWebsites)
         print('numEntries = ', numEntries)
         for key in keys:
-            print(self.dictWebsites[key][0])
+            #print(self.dictWebsites[key][0])
+            if dictWebsites[key] > 1:
+                tup = (key, dictWebsites[key])
+                if (not tup in lstTarget):
+                    lstTarget.append(tup)
+        for item in lstTarget:
+            print(item)
 
     def lookupKey(self, val):
         keys = self.dict2FN.keys()
@@ -264,45 +321,32 @@ def configureCrawler(crawler):
     for key in keys:
         crawler.addWebsite(dictCrawler[key])
     
-class AppURLopener(urllib.request.FancyURLopener):
-    version = "Mozilla/5.0"
-    '''
-    def __init__(self):
-        pass
-    '''
-
-    
-
-def iNCMain():
-    '''
-    # parse command line options
-    try:
-        opts, args = getopt.getopt(sys.argv[1:], "h", ["help"])
-    except getopt.error as msg:
-        print(msg)
-        print("for help use --help")
-        sys.exit(2)
-    # process options
-    for o, a in opts:
-        if o in ("-h", "--help"):
-            print(__doc__)
-            sys.exit(0)
-    # process arguments
-    #for arg in args:
-    #    process(arg) # process() is defined elsewhere
-    '''
-    ### procHTTPRequest()
-    iNC = IsraelNewsCrawler()
-    ''' work
-    configureCrawler(iNC)
-    iNC.testUrl2FileName()
-    iNC.testPrintDictWebsites()
-    '''
-    
+def testOpener():
     print(">>"*10+"iNC-breakingIsraelNews"+"<<"*10)
     url = 'http://www.breakingisraelnews.com'
-    opener = AppURLopener()
-    response = opener.open(url)    #'http://httpbin.org/user-agent')
+    myHeaders = {'Accept':'text/css,*/*;q=0.1',
+                         'Accept-Charset':'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
+                         'Accept-Encoding':'gzip,deflate,sdch',
+                         'Accept-Language':'en-US,en;q=0.8',
+                         'User-Agent':'Mozilla/5 (Solaris 10) Gecko'}
+    thisWork = 4
+    if thisWork == 1: # WORKING
+        opener = AppURLopener()
+        response = opener.open(url)
+        print("AFTER response")
+    elif thisWork == 2: # NOT WORKING
+        req = urllib.request.Request(url, headers = myHeaders)
+        response = urllib.request.urlopen(req)
+    elif thisWork == 3: # WORKING
+        opener = BaseURLopener()
+        response = opener.open(url)
+        print("BaseURLopener-open(url)")
+    else: #thisWork == 4:
+        opener = MyAppURLopener()
+        response = opener.open(url)
+        print("MyAppURLopener-open(url)")
+    
+    
     bs = BeautifulSoup(response.read(), "html.parser")
     strRes = bs.prettify().encode("cp950", "ignore")
     lstAs = bs.find_all('a', href=True)
@@ -332,14 +376,55 @@ def iNCMain():
         tLen += pLen
     print("total len = ", tLen)
     #print(lstWords)
+    lstTarget = []
     keys = dctWords.keys()
     for key in keys:
-        print("[",key ,"] = ", str(dctWords[key]))
+        #print("[",key ,"] = ", str(dctWords[key]))
         lnCnt += 1
         if ((lnCnt != 0) and (lnCnt % 40 == 0)):
             input("Hit enter to continue")
+        tup = (key, dctWords[key])
+        strSearch = key.strip().decode("utf-8", "ignore")
+        if (strSearch.find('<') == -1) and (strSearch.find('>') == -1):
+            #print("strSearch = "+strSearch)
+            if dctWords[key] > 1:
+                if not NLTKExTag(strSearch):
+                    if not tup in lstTarget:
+                        print(tup)
+                        lstTarget.append(tup)
+    lstTarget.sort()
+    for item in lstTarget:
+        print(item)
     print("dctLen = ", len(dctWords))
-                         
+    
+
+def iNCMain():
+    '''
+    # parse command line options
+    try:
+        opts, args = getopt.getopt(sys.argv[1:], "h", ["help"])
+    except getopt.error as msg:
+        print(msg)
+        print("for help use --help")
+        sys.exit(2)
+    # process options
+    for o, a in opts:
+        if o in ("-h", "--help"):
+            print(__doc__)
+            sys.exit(0)
+    # process arguments
+    #for arg in args:
+    #    process(arg) # process() is defined elsewhere
+    '''
+    ### procHTTPRequest()
+    iNC = IsraelNewsCrawler()
+    ''' work
+    configureCrawler(iNC)
+    iNC.testUrl2FileName()
+    iNC.testPrintDictWebsites()
+    '''
+    
+    testOpener()                     
     
     #print(bs.head.encode("cp950", "ignore"))
     #print(bs.title.encode("cp950", "ignore"))
