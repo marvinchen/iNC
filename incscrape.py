@@ -14,18 +14,20 @@ from sklearn import feature_extraction
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import CountVectorizer
 
+'''  !!!
+In python 3, bytes strings and unicode strings are now two different types. Since sockets are not aware of string encodings, they are using raw bytes strings, that have a slightly different interface from unicode strings.
+
+So, now, whenever you have a unicode string that you need to use as a byte string, you need to encode() it. And when you have a byte string, you need to decode it to use it as a regular (python 2.x) string.
+
+Unicode strings are quotes enclosed strings. Bytes strings are b"" enclosed strings
+
+See What's new in python 3.0 .
+'''
+
 filteredList = ['CC', 'CD', 'DT', 'IN', 'JJ', 'JJR','JJS', 'LS', 'MD',
-                'PDT', 'POS', 'PRP', 'RB', 'RBR', 'RBS', 'RP', 'TO',
+                'PDT', 'POS', 'PRP', 'PRP$', 'RB', 'RBR', 'RBS', 'RP', 'TO',
                 'UH', 'WDT', 'WP', 'WRB']
 
-def NLTKExTag(strWord):
-    #print("NLTKExTag:strWord =" + str(strWord))
-    tag = nltk.pos_tag(word_tokenize(strWord))
-    if tag[0][1] in filteredList:
-        #print("NLTKExTag:T "+strWord)
-        return True
-    #print("NLTKExTag:F "+strWord)
-    return False
 
 
 
@@ -320,6 +322,137 @@ def configureCrawler(crawler):
     keys = dictCrawler.keys()
     for key in keys:
         crawler.addWebsite(dictCrawler[key])
+
+import string
+from nltk.corpus import state_union
+from nltk.tokenize import PunktSentenceTokenizer
+from nltk.probability import FreqDist
+
+def NLTKExTag(strWord):
+    #print("NLTKExTag:strWord =" + str(strWord))
+    copularVerbs = ["IS", "AM", "ARE", "WAS", "WERE", "HAS", "HAVE"]
+    strUpperWord = strWord.upper()
+    if strUpperWord in copularVerbs:
+        print("copular: "+strWord)
+        return True
+    tag = nltk.pos_tag(word_tokenize(strWord))
+    if tag[0][1] in filteredList:
+        #print("NLTKExTag:T "+strWord)
+        return True
+    #print("NLTKExTag:F "+strWord)
+    return False
+
+class BINOpener(MyAppURLopener):
+    def __init__(self):
+        self._strURL = "http://www.breakingisraelnews.com"
+        MyAppURLopener.__init__(self)
+        self._lstWords = []
+        self._dctWords = {}
+        self._lstTarget = []
+        self.strTotal = ""
+
+    def GetResponse(self, strURL="http://www.breakingisraelnews.com"):
+        response = self.open(strURL)
+        self._beautifulSoup = BeautifulSoup(response.read(), "html.parser")
+        self._strResult = self._beautifulSoup.prettify().encode("cp950", "ignore")
+
+    def TrimHTMLtags(self, strSrc):
+        strTarget = strSrc
+        while(True):
+            idxBegin = strTarget.find('<')
+            if idxBegin == -1:
+                break
+            else:
+                idxEnd   = strTarget.find('>')
+                str2Remove = strTarget[idxBegin:idxEnd+1]
+                strTarget = strTarget.replace(str2Remove, '')
+        return strTarget
+
+    def CalculateWF(self, paragraph):
+        words = nltk.tokenize.word_tokenize(paragraph)
+        self.fdist = FreqDist(words)
+        print("fdist--"*8)
+        keys = self.fdist.keys()
+        for key in keys:
+            val = self.fdist[key]
+            print("[%s] = %s" % (key, val))
+        self.fdist.plot(20)
+
+    def CollectWords(self):
+        self._lstAs = self._beautifulSoup.find_all('a', href=True)
+        self._allLinks = self._beautifulSoup.find_all('p')
+
+        for p in self._allLinks:
+            pStr = p.decode().encode("cp950", "ignore")
+            '''
+            if p == None:
+                print("p is None")
+            if p.strip(string.whitespace) == None:
+                print("p.strip is None")
+            sys.stdout.flush()
+            '''
+            pStrDecode = pStr
+            if pStrDecode != None: # and p.strip() != None:
+                pStrDecode = pStrDecode.decode("utf-8", "ignore").strip(string.whitespace)
+
+                #print("::", pStrDecode)
+                pStrDecode = self.TrimHTMLtags(pStrDecode)
+                #print(":::", pStrDecode)
+                if (pStrDecode.find('<') == -1) and (pStrDecode.find('>') == -1):
+                    self.strTotal += " "
+                    self.strTotal += pStrDecode
+                    print("Hello:: " + pStrDecode)
+                    input("Hit enter to continue")
+                    self.CollectPhrasesNsentences(pStrDecode)
+            sPstr = pStr.split()    # split by WS
+            
+            for word in sPstr:
+                if word not in self._lstWords:
+                    self._lstWords.append(word)    # add new word
+                    self._dctWords[word] = 1
+                else:
+                    self._dctWords[word] += 1            # increase count by 1
+        self.CalculateWF(self.strTotal)
+        # prepare target list
+        keys = self._dctWords.keys()
+        for key in keys:
+            tup = (key, self._dctWords[key])
+            strSearch = key.strip().decode("utf-8", "ignore")
+            if self._dctWords[key] > 1:
+                if not NLTKExTag(strSearch):
+                    if not tup in self._lstTarget:
+                        #print(tup)
+                        self._lstTarget.append(tup)
+        self._lstTarget.sort()
+        print("lstTarget len:", len(self._lstTarget))
+        for item in self._lstTarget:
+            print(item)
+
+    def CollectPhrasesNsentences(self, strSrc):
+        self.txtTraining = state_union.raw("2005-GWBush.txt")
+        self.txtSample   = state_union.raw("2006-GWBush.txt")
+        self.customSentTokenizer = PunktSentenceTokenizer(self.txtTraining)
+        self.lstPhsNSents = []
+        self.chunkGrammar = r"""Chunk: {<RB.?>*<VB.?>*<NNP>+<NN>?}"""
+        self.chunkParser = nltk.RegexpParser(self.chunkGrammar)
+
+        tokenized = self.customSentTokenizer.tokenize(strSrc)
+        try:
+            for item in tokenized:
+                words = nltk.word_tokenize(item)
+                tagged = nltk.pos_tag(words)
+
+                chunked = self.chunkParser.parse(tagged)
+                print("---"*20)
+                print(chunked)
+                print("==="*20)
+        except Exception as e:
+            print(str(e))
+        
+    def CollectStatistics(self):
+        self.CollectWords()
+        
+        
     
 def testOpener():
     print(">>"*10+"iNC-breakingIsraelNews"+"<<"*10)
@@ -381,8 +514,8 @@ def testOpener():
     for key in keys:
         #print("[",key ,"] = ", str(dctWords[key]))
         lnCnt += 1
-        if ((lnCnt != 0) and (lnCnt % 40 == 0)):
-            input("Hit enter to continue")
+        #if ((lnCnt != 0) and (lnCnt % 40 == 0)):
+        #    input("Hit enter to continue")
         tup = (key, dctWords[key])
         strSearch = key.strip().decode("utf-8", "ignore")
         if (strSearch.find('<') == -1) and (strSearch.find('>') == -1):
@@ -390,9 +523,10 @@ def testOpener():
             if dctWords[key] > 1:
                 if not NLTKExTag(strSearch):
                     if not tup in lstTarget:
-                        print(tup)
+                        #print(tup)
                         lstTarget.append(tup)
     lstTarget.sort()
+    print("lstTarget len:", len(lstTarget))
     for item in lstTarget:
         print(item)
     print("dctLen = ", len(dctWords))
@@ -424,7 +558,10 @@ def iNCMain():
     iNC.testPrintDictWebsites()
     '''
     
-    testOpener()                     
+    #testOpener()                     working replaced with the following: BINOpener
+    binOpener = BINOpener()
+    binOpener.GetResponse()
+    binOpener.CollectStatistics()
     
     #print(bs.head.encode("cp950", "ignore"))
     #print(bs.title.encode("cp950", "ignore"))

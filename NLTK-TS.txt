@@ -194,46 +194,44 @@ WRB: Wh-adverb
 
 how however whence whenever where whereby whereever wherein whereof why
 
-NLTKè¯æ€§ï¼š
+NLTK´ÊĞÔ£º
 
-æ ‡è®° å«ä¹‰ ä¾‹å­
-CC è¿è¯ and, or,but, if, while,although
-CD æ•°è¯ twenty-four, fourth, 1991,14:24
-DT é™å®šè¯ the, a, some, most,every, no
-EX å­˜åœ¨é‡è¯ there, there's
-FW å¤–æ¥è¯ dolce, ersatz, esprit, quo,maitre
-IN ä»‹è¯è¿è¯ on, of,at, with,by,into, under
-JJ å½¢å®¹è¯ new,good, high, special, big, local
-JJR æ¯”è¾ƒçº§è¯è¯­ bleaker braver breezier briefer brighter brisker
-JJS æœ€é«˜çº§è¯è¯­ calmest cheapest choicest classiest cleanest clearest
-LS æ ‡è®° A A. B B. C C. D E F First G H I J K
-MD æƒ…æ€åŠ¨è¯ can cannot could couldn't
-NN åè¯ year,home, costs, time, education
-NNS åè¯å¤æ•° undergraduates scotches
-NNP ä¸“æœ‰åè¯ Alison,Africa,April,Washington
-NNPS ä¸“æœ‰åè¯å¤æ•° Americans Americas Amharas Amityvilles
-PDT å‰é™å®šè¯ all both half many
-POS æ‰€æœ‰æ ¼æ ‡è®° ' 's
-PRP äººç§°ä»£è¯ hers herself him himself hisself
-PRP$ æ‰€æœ‰æ ¼ her his mine my our ours
-RB å‰¯è¯ occasionally unabatingly maddeningly
-RBR å‰¯è¯æ¯”è¾ƒçº§ further gloomier grander
-RBS å‰¯è¯æœ€é«˜çº§ best biggest bluntest earliest
-RP è™šè¯ aboard about across along apart
-SYM ç¬¦å· % & ' '' ''. ) )
-TO è¯to to
-UH æ„Ÿå¹è¯ Goodbye Goody Gosh Wow
-VB åŠ¨è¯ ask assemble assess
-VBD åŠ¨è¯è¿‡å»å¼ dipped pleaded swiped
-VBG åŠ¨è¯ç°åœ¨åˆ†è¯ telegraphing stirring focusing
-VBN åŠ¨è¯è¿‡å»åˆ†è¯ multihulled dilapidated aerosolized
-VBP åŠ¨è¯ç°åœ¨å¼éç¬¬ä¸‰äººç§°æ—¶æ€ predominate wrap resort sue
-VBZ åŠ¨è¯ç°åœ¨å¼ç¬¬ä¸‰äººç§°æ—¶æ€ bases reconstructs marks
-WDT Whé™å®šè¯ who,which,when,what,where,how
-WP WHä»£è¯ that what whatever
-WP$ WHä»£è¯æ‰€æœ‰æ ¼ whose
-WRB WHå‰¯è¯
+±ê¼Ç º¬Òå Àı×Ó
+CC Á¬´Ê and, or,but, if, while,although
+CD Êı´Ê twenty-four, fourth, 1991,14:24
+DT ÏŞ¶¨´Ê the, a, some, most,every, no
+EX ´æÔÚÁ¿´Ê there, there's
+FW ÍâÀ´´Ê dolce, ersatz, esprit, quo,maitre
+IN ½é´ÊÁ¬´Ê on, of,at, with,by,into, under
+JJ ĞÎÈİ´Ê new,good, high, special, big, local
+JJR ±È½Ï¼¶´ÊÓï bleaker braver breezier briefer brighter brisker
+JJS ×î¸ß¼¶´ÊÓï calmest cheapest choicest classiest cleanest clearest
+LS ±ê¼Ç A A. B B. C C. D E F First G H I J K
+MD ÇéÌ¬¶¯´Ê can cannot could couldn't
+NN Ãû´Ê year,home, costs, time, education
+NNS Ãû´Ê¸´Êı undergraduates scotches
+NNP ×¨ÓĞÃû´Ê Alison,Africa,April,Washington
+NNPS ×¨ÓĞÃû´Ê¸´Êı Americans Americas Amharas Amityvilles
+PDT Ç°ÏŞ¶¨´Ê all both half many
+POS ËùÓĞ¸ñ±ê¼Ç ' 's
+PRP ÈË³Æ´ú´Ê hers herself him himself hisself
+PRP$ ËùÓĞ¸ñ her his mine my our ours
+RB ¸±´Ê occasionally unabatingly maddeningly
+RBR ¸±´Ê±È½Ï¼¶ further gloomier grander
+RBS ¸±´Ê×î¸ß¼¶ best biggest bluntest earliest
+RP Ğé´Ê aboard about across along apart
+SYM ·ûºÅ % & ' '' ''. ) )
+TO ´Êto to
+UH ¸ĞÌ¾´Ê Goodbye Goody Gosh Wow
+VB ¶¯´Ê ask assemble assess
+VBD ¶¯´Ê¹ıÈ¥Ê½ dipped pleaded swiped
+VBG ¶¯´ÊÏÖÔÚ·Ö´Ê telegraphing stirring focusing
+VBN ¶¯´Ê¹ıÈ¥·Ö´Ê multihulled dilapidated aerosolized
+VBP ¶¯´ÊÏÖÔÚÊ½·ÇµÚÈıÈË³ÆÊ±Ì¬ predominate wrap resort sue
+VBZ ¶¯´ÊÏÖÔÚÊ½µÚÈıÈË³ÆÊ±Ì¬ bases reconstructs marks
+WDT WhÏŞ¶¨´Ê who,which,when,what,where,how
+WP WH´ú´Ê that what whatever
+WP$ WH´ú´ÊËùÓĞ¸ñ whose
+WRB WH¸±´Ê
 
-P.S.ä¸Šé¢çš„å«ä¹‰å¯ä»¥ç›´æ¥ä½¿ç”¨â€œnltk.help.upenn_tagset()â€æŸ¥çœ‹å®˜æ–¹è‹±æ–‡è¯´æ˜ã€‚
-
-
+P.S.ÉÏÃæµÄº¬Òå¿ÉÒÔÖ±½ÓÊ¹ÓÃ¡°nltk.help.upenn_tagset()¡±²é¿´¹Ù·½Ó¢ÎÄËµÃ÷¡£
